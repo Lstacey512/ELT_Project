@@ -1,889 +1,1038 @@
-,bio error,header error,image error,name
-0,True,False,False,"('Louis Benjamin Huber', 'Defeuille')"
-1,True,False,False,"('Jacques', 'Thouron')"
-2,True,False,False,"('Unknown', 'Unknown')"
-3,True,False,False,"('Jean-Baptiste', 'Nini')"
-4,True,False,False,"('H.', 'Sanford')"
-5,True,False,False,"('William P.', 'Babcock')"
-6,True,False,False,"('Henry', 'Inman')"
-7,True,False,False,"('Ambrose', 'Andrews')"
-8,True,False,False,"('G.', 'Baker')"
-9,True,False,False,"('George Augustus Jr.', 'Baker')"
-10,True,False,False,"('Frank W.', 'Benson')"
-11,True,False,False,"('Joseph', 'Blackburn')"
-12,True,False,False,"('Jacob D.', 'Blondel')"
-13,True,False,False,"('Otto', 'Boetticher')"
-14,True,False,False,"('George H.', 'Bogert')"
-15,True,False,False,"('Frank Myers', 'Boggs')"
-16,True,False,False,"('William', 'Bradford')"
-17,True,False,False,"('John', 'Bradley')"
-18,True,False,False,"('William Gedney', 'Bunce')"
-19,True,False,False,"('Howard Russel', 'Butler')"
-20,True,False,False,"('James H.', 'Cafferty')"
-21,True,False,False,"('John', 'Carlin')"
-22,True,False,False,"('Jefferson D.', 'Chalfant')"
-23,True,False,False,"('Thomas', 'Chambers')"
-24,True,False,False,"('William P.', 'Chappel')"
-25,True,False,False,"('Edmund C.', 'Coates')"
-26,True,False,False,"('William', 'Coffin')"
-27,True,False,False,"('Alfred Q.', 'Collins')"
-28,True,False,False,"('Colin Cambell', 'Cooper')"
-29,True,False,False,"('Alfred', 'Copestick')"
-30,True,False,False,"('Caroline', 'Cranch')"
-31,True,False,False,"('Johan Mengels', 'Culverhouse')"
-32,True,False,False,"('Léon', 'Dabo')"
-33,True,False,False,"('William P. W.', 'Dana')"
-34,True,False,False,"('William', 'Dannat')"
-35,True,False,False,"('Charles H', 'Davis')"
-36,True,False,False,"('Ruger', 'Donoho')"
-37,True,False,False,"('Thomas', 'Doughty')"
-38,True,False,False,"('Gerrit', 'Duyckinck')"
-39,True,False,False,"('Oliver Tarbell', 'Eddy')"
-40,True,False,False,"('Carnig', 'Eksergian')"
-41,True,False,False,"('James Guy', 'Evans')"
-42,True,False,False,"('Joseph', 'Fagnani')"
-43,True,False,False,"('Charles Noel', 'Flagg')"
-44,True,False,False,"('August R.', 'Franzen')"
-45,True,False,False,"('Oliver', 'Frazer')"
-46,True,False,False,"('George', 'Fuller')"
-47,True,False,False,"('Ignaz Marcel', 'Gaugengigl')"
-48,True,False,False,"('Edward', 'Gay')"
-49,True,False,False,"('Arthur Clifton', 'Goodwin')"
-50,True,False,False,"('Philip L.', 'Hale')"
-51,True,False,False,"('James', 'Hamilton')"
-52,True,False,False,"('Chester (Charles)', 'Harding')"
-53,True,False,False,"('Alexander', 'Harrison')"
-54,True,False,False,"('James M.', 'Hart')"
-55,True,False,False,"('William', 'Hart')"
-56,True,False,False,"('Joseph H.', 'Hidley')"
-57,True,False,False,"('Thomas', 'Hill')"
-58,True,False,False,"('Thomas Hewes', 'Hinckley')"
-59,True,False,False,"('George', 'Hitchcock')"
-60,True,False,False,"('Richard William', 'Hubbard')"
-61,True,False,False,"('F. G. W.', 'Hunten')"
-62,True,False,False,"('Daniel', 'Huntington')"
-63,True,False,False,"('Charles Wesley', 'Jarvis')"
-64,True,False,False,"('David', 'Johnson')"
-65,True,False,False,"('Joshua', 'Johnson')"
-66,True,False,False,"('William', 'Johnston')"
-67,True,False,False,"('H. Bolton', 'Jones')"
-68,True,False,False,"('Alphonse', 'Jongers')"
-69,True,False,False,"('Theodor', 'Kaufmann')"
-70,True,False,False,"('William', 'Keith')"
-71,True,False,False,"('Joseph Bartholomew', 'Kidd')"
-72,True,False,False,"('Nicholas Biddle', 'Kittell')"
-73,True,False,False,"('Jacob Hart', 'Lazarus')"
-74,True,False,False,"('John', 'Lillie')"
-75,True,False,False,"('George', 'Linen')"
-76,True,False,False,"('De Witt McClellan', 'Lockman')"
-77,True,False,False,"('Will H.', 'Low')"
-78,True,False,False,"('Robert', 'MacCameron')"
-79,True,False,False,"('William', 'Magrath')"
-80,True,False,False,"('George Willoughby', 'Maynard')"
-81,True,False,False,"('F. A.', 'Mead')"
-82,True,False,False,"('Theodore Sidney', 'Moise')"
-83,True,False,False,"('William', 'Page')"
-84,True,False,False,"('Dewitt', 'Parshall')"
-85,True,False,False,"('Robert', 'Peckham')"
-86,True,False,False,"('Jay Campbell', 'Phillips')"
-87,True,False,False,"('Theodore E.', 'Pine')"
-88,True,False,False,"('Esther Baldwin', 'Williams')"
-89,True,False,False,"('Charles Sidney', 'Raleigh')"
-90,True,False,False,"('Robert', 'Reid')"
-91,True,False,False,"('Chauncey F.', 'Ryder')"
-92,True,False,False,"('Platt Powell', 'Ryder')"
-93,True,False,False,"('William H.', 'Schenck')"
-94,True,False,False,"('Limner', 'Schuyler')"
-95,True,False,False,"('Samuel H.', 'Sexton')"
-96,True,False,False,"('Alexander', 'Shilling')"
-97,True,False,False,"('William Louis', 'Sonntag')"
-98,True,False,False,"('Frederick R.', 'Spencer')"
-99,True,False,False,"('Vincent G.', 'Stiepevich')"
-100,True,False,False,"('George Henry', 'Story')"
-101,True,False,False,"('M. A.', 'Sullivan')"
-102,True,False,False,"('Thomas Wilcocks', 'Sully')"
-103,True,False,False,"('Edward Martin', 'Taber')"
-104,True,False,False,"('Allen B.', 'Talcott')"
-105,True,False,False,"('Stephen Seymour', 'Thomas')"
-106,True,False,False,"('Alfred Wordsworth', 'Thompson')"
-107,True,False,False,"('Cephas Giovanni', 'Thompson')"
-108,True,False,False,"('Jerome B.', 'Thompson')"
-109,True,False,False,"('Thomas', 'Thompson')"
-110,True,False,False,"('Stacy', 'Tolman')"
-111,True,False,False,"('Jonathan K.', 'Trego')"
-112,True,False,False,"('Charles Frederick', 'Ulrich')"
-113,True,False,False,"('Lodewijk', 'Tieling')"
-114,True,False,False,"('Painter', 'Chinese')"
-115,True,False,False,"('Unknown', 'Unknown Artist')"
-116,True,False,False,"('Robert W.', 'Vonnoh')"
-117,True,False,False,"('A. P.', 'Waite')"
-118,True,False,False,"('J. C.', 'Wales')"
-119,True,False,False,"('Charles Caleb', 'Ward')"
-120,True,False,False,"('Frederick J', 'Waugh')"
-121,True,False,False,"('Catherine D.', 'Wentworth')"
-122,True,False,False,"('Adolph Ulrich', 'Wertmuller')"
-123,True,False,False,"('William', 'Williams')"
-124,True,False,False,"('John', 'Wollaston')"
-125,True,False,False,"('Joseph', 'Wood')"
-126,True,False,False,"('John A.', 'Woodside')"
-127,True,False,False,"('Harvey O.', 'Young')"
-128,True,False,False,"('Howard', 'Cushing')"
-129,True,False,False,"('(or Kilbrunn) Lawrence', 'Kilburn')"
-130,True,False,False,"('Albertis del Orient', 'Browere')"
-131,True,False,False,"('George W. Jr.', 'Twibill')"
-132,True,False,False,"('Robert', 'Spencer')"
-133,True,False,False,"('Miriam', 'Washburn')"
-134,True,False,False,"('Adelaide Milton', 'de Groot')"
-135,True,False,False,"('Clayton S.', 'Price')"
-136,True,False,False,"('James', 'Preston')"
-137,True,False,False,"('John', 'Kane')"
-138,True,False,False,"('Demah Prince', 'Barnes')"
-139,True,False,False,"('Unknown', 'Agostino Brunias')"
-140,True,False,False,"('Unknown', 'British Painter')"
-141,True,False,False,"('Unknown', 'Shaw Stephen William')"
-142,True,False,False,"('Unknown', 'Unidentified Artist')"
-143,True,False,False,"('Unknown', 'Guan Liang')"
-144,True,False,False,"('Unknown', 'Sōami')"
-145,True,False,False,"('Unknown', 'Xu Gu')"
-146,True,False,False,"('Unknown', 'Wu Changshuo')"
-147,True,False,False,"('Unknown', 'Fan Zeng')"
-148,True,False,False,"('Unknown', 'Miki Suizan')"
-149,True,False,False,"('Unknown', 'Giovanni da Udine (Giovanni dei Ricamatori)')"
-150,True,False,False,"('Unknown', 'French Painter')"
-151,True,False,False,"('Unknown', 'Wootton James')"
-152,True,False,False,"('Unknown', 'Spanish Painter')"
-153,True,False,False,"('Hanns', 'Skolle')"
-154,True,False,False,"('Isabelle', 'Evans')"
-155,True,False,False,"('Charles', 'Clough')"
-156,True,False,False,"('Unknown', 'Bryyinyuwuy possibly')"
-157,True,False,False,"('Unknown', 'Gill Lunda Hoyle')"
-158,True,False,False,"('Ephrem', 'Kouakou')"
-159,True,False,False,"('Czech', 'Anonymous')"
-160,True,False,False,"('Fra (Guido di Pietro)', 'Angelico')"
-161,True,False,False,"('Unknown', ""Antonello da Messina (Antonello di Giovanni d'Antonio)"")"
-162,True,False,False,"('Unknown', 'Antonello de Saliba')"
-163,True,False,False,"('Unknown', 'Antoniazzo Romano (Antonio di Benedetto Aquilio)')"
-164,True,False,False,"('Ulrich', 'Apt')"
-165,True,False,False,"('Abram Efimovich', 'Arkhipov')"
-166,True,False,False,"('Unknown', ""Bachiacca (Francesco d'Ubertino Verdi)"")"
-167,True,False,False,"('Jacob', 'Backer')"
-168,True,False,False,"('Dionisio', 'Baixeras y Verdaguer')"
-169,True,False,False,"('Hans (called Hans Baldung Grien)', 'Baldung')"
-170,True,False,False,"('Ercole', 'Banci')"
-171,True,False,False,"('Fra (Bartolomeo di Paolo del Fattorino)', 'Bartolomeo')"
-172,True,False,False,"('Unknown', 'Bartolomeo degli Erri')"
-173,True,False,False,"('Charles-Édouard de', 'Beaumont')"
-174,True,False,False,"('Johannes Abrahamsz', 'Beerstraten')"
-175,True,False,False,"('Unknown', 'Benjamin-Constant (Jean-Joseph-Benjamin Constant)')"
-176,True,False,False,"('Marie Guillelmine', 'Benoist')"
-177,True,False,False,"('Unknown', 'Bergognone (Ambrogio di Stefano da Fossano)')"
-178,True,False,False,"('Unknown', 'Berlinghiero')"
-179,True,False,False,"('Unknown', 'Bernardino da Genoa')"
-180,True,False,False,"('Unknown', ""Biagio d'Antonio"")"
-181,True,False,False,"('Henri Joseph van', 'Blarenberghe')"
-182,True,False,False,"('Auguste-François', 'Bonheur')"
-183,True,False,False,"('Unknown', ""Bonifacio de' Pitati (Bonifacio Veronese)"")"
-184,True,False,False,"('Unknown', 'Botticelli (Alessandro di Mariano Filipepi)')"
-185,True,False,False,"('Unknown', 'Botticelli')"
-186,True,False,False,"('Francesco (Francesco di Giovanni)', 'Botticini')"
-187,True,False,False,"('Unknown', 'Bramantino (Bartolomeo Suardi)')"
-188,True,False,False,"('John', 'Brett')"
-189,True,False,False,"('Unknown', 'Bronzino (Agnolo di Cosimo di Mariano)')"
-190,True,False,False,"('Unknown', 'Bronzino')"
-191,True,False,False,"('Jan', 'Brueghel')"
-192,True,False,False,"('Unknown', 'Budapest Master')"
-193,True,False,False,"('Giuliano di Piero di Simone', 'Bugiardini')"
-194,True,False,False,"('Unknown', 'Canaletto (Giovanni Antonio Canal)')"
-195,True,False,False,"('Unknown', 'Caravaggio (Michelangelo Merisi)')"
-196,True,False,False,"('Frei', 'Carlos')"
-197,True,False,False,"('Fra (Bartolomeo di Giovanni Corradini)', 'Carnevale')"
-198,True,False,False,"('Charles-Auguste-Émile Durant', 'Carolus-Duran')"
-199,True,False,False,"('Unknown', 'Catena (Vincenzo di Biagio)')"
-200,True,False,False,"('Unknown', 'Cenni di Francesco di Ser Cenni')"
-201,True,False,False,"('Unknown', 'Cigoli (Ludovico Cardi)')"
-202,True,False,False,"('Unknown', 'Cima da Conegliano (Giovanni Battista Cima)')"
-203,True,False,False,"('Unknown', 'Claude Lorrain (Claude Gellée)')"
-204,True,False,False,"('Unknown', 'Claude Lorrain')"
-205,True,False,False,"('Unknown', 'Corneille de Lyon')"
-206,True,False,False,"('Unknown', 'Correggio (Antonio Allegri)')"
-207,True,False,False,"('Lucas', 'Cranach')"
-208,True,False,False,"('Claude', 'Déruet')"
-209,True,False,False,"('Blaise-Alexandre', 'Desgoffe')"
-210,True,False,False,"('Alexandre François', 'Desportes')"
-211,True,False,False,"('Unknown', 'Domenichino (Domenico Zampieri)')"
-212,True,False,False,"('Francisco', 'Domingo y Marqués')"
-213,True,False,False,"('Dosso (Giovanni de Lutero)', 'Dossi')"
-214,True,False,False,"('François Hubert', 'Drouais')"
-215,True,False,False,"('Rose Adélaïde', 'Ducreux')"
-216,True,False,False,"('Robert Charles', 'Dudley')"
-217,True,False,False,"('Richard Gainsborough', 'Dupont')"
-218,True,False,False,"('Unknown', 'German Painter')"
-219,True,False,False,"('Unknown', 'Dutch Painter')"
-220,True,False,False,"('Jan', 'Ekels')"
-221,True,False,False,"('Unknown', 'European Painter')"
-222,True,False,False,"('Unknown', 'Netherlandish Painter')"
-223,True,False,False,"('Peter', 'Faes')"
-224,True,False,False,"('Mariano', 'Fortuny Marsal')"
-225,True,False,False,"('Unknown', 'Francesco di Giorgio Martini')"
-226,True,False,False,"('Unknown', 'Italian (Ferrarese) Painter')"
-227,True,False,False,"('Jean François de', 'Le Motte')"
-228,True,False,False,"('Unknown', 'French (Burgundian?) Painter')"
-229,True,False,False,"('Unknown', 'French (Fontainebleau) Painter')"
-230,True,False,False,"('Unknown', 'Northern French Painter')"
-231,True,False,False,"('Unknown', 'Spanish (Aragonese) Painter')"
-232,True,False,False,"('Unknown', 'Gentile da Fabriano (Gentile di Niccolò di Giovanni di Massio)')"
-233,True,False,False,"('Unknown', 'Italian Painter')"
-234,True,False,False,"('Unknown', 'German (Nuremberg) Painter')"
-235,True,False,False,"('Jacques de', 'Gheyn')"
-236,True,False,False,"('Domenico (Domenico Bigordi)', 'Ghirlandaio')"
-237,True,False,False,"('Davide (David Bigordi)', 'Ghirlandaio')"
-238,True,False,False,"('Francescuccio (Francesco di Cecco Ghissi)', 'Ghissi')"
-239,True,False,False,"('Michele (Michele Giovanni Bono)', 'Giambono')"
-240,True,False,False,"('Unknown', 'Giampietrino (Giovanni Pietro Rizzoli)')"
-241,True,False,False,"('Unknown', 'Giotto di Bondone')"
-242,True,False,False,"('Unknown', 'Giovanni di Paolo (Giovanni di Paolo di Grazia)')"
-243,True,False,False,"('Pierre-Paul-Léon', 'Glaize')"
-244,True,False,False,"('Jan (called Mabuse)', 'Gossart')"
-245,True,False,False,"('Unknown', 'Goya (Francisco de Goya y Lucientes)')"
-246,True,False,False,"('Unknown', 'Goya')"
-247,True,False,False,"('Benozzo (Benozzo di Lese di Sandro)', 'Gozzoli')"
-248,True,False,False,"('Francesco (Francesco di Andrea di Marco)', 'Granacci')"
-249,True,False,False,"('El (Domenikos Theotokopoulos)', 'Greco')"
-250,True,False,False,"('Unknown', 'Greco El')"
-251,True,False,False,"('Georg Christoph', 'Grooth')"
-252,True,False,False,"('Johann Nikolaus', 'Grooth')"
-253,True,False,False,"('Unknown', 'Guariento di Arpo')"
-254,True,False,False,"('Unknown', 'Guercino (Giovanni Francesco Barbieri)')"
-255,True,False,False,"('Hans', 'Holbein')"
-256,True,False,False,"('Ferdinand', 'Humbert')"
-257,True,False,False,"('Gustave', 'Héquet')"
-258,True,False,False,"('Unknown', 'Italian (Florentine) Painter')"
-259,True,False,False,"('Unknown', 'Master of the Magdalen')"
-260,True,False,False,"('Unknown', 'Italian (Lombard) Painter')"
-261,True,False,False,"('Unknown', 'Italian (Marchigian?) Painter')"
-262,True,False,False,"('Unknown', 'North Italian Painter')"
-263,True,False,False,"('Unknown', 'Italian (Pisan) Painter')"
-264,True,False,False,"('Unknown', 'Italian (Sienese) Painter')"
-265,True,False,False,"('Unknown', 'Italian (Umbrian) Painter')"
-266,True,False,False,"('Unknown', 'Italian (Venetian) Painter')"
-267,True,False,False,"('Unknown', 'Jacometto (Jacometto Veneziano)')"
-268,True,False,False,"('Unknown', 'Jacopino del Conte')"
-269,True,False,False,"('Unknown', 'Daniele da Volterra (Daniele Ricciarelli)')"
-270,True,False,False,"('Abraham', 'Janssen van Nuyssen')"
-271,True,False,False,"('Paulin', 'Jénot')"
-272,True,False,False,"('Jan', 'Joest of Kalkar')"
-273,True,False,False,"('Unknown', 'Joos van Cleve')"
-274,True,False,False,"('Unknown', 'Juan de Flandes')"
-275,True,False,False,"('Unknown', 'Justus of Ghent (Joos van Wassenhove)')"
-276,True,False,False,"('Guillaume', 'Koller')"
-277,True,False,False,"('Andreas', 'Altomonte')"
-278,True,False,False,"('Ignacio de', 'León y Escosura')"
-279,True,False,False,"('Pietro (Pietro Falca)', 'Longhi')"
-280,True,False,False,"('Unknown', ""Lorenzo di Credi (Lorenzo d'Andrea d'Oderigo)"")"
-281,True,False,False,"('Unknown', 'Lorenzo Monaco (Piero di Giovanni)')"
-282,True,False,False,"('Unknown', 'Luca di Tommè di Nuto')"
-283,True,False,False,"('Federico de', 'Madrazo y de Ochoa')"
-284,True,False,False,"('Vladimir Egorovich', 'Makovsky')"
-285,True,False,False,"('Giovanni', 'Maldura')"
-286,True,False,False,"('Charles-François', 'Marchal')"
-287,True,False,False,"('Matthys', 'Maris')"
-288,True,False,False,"('Unknown', 'Maso di Banco')"
-289,True,False,False,"('Unknown', 'Master of the Liège Disciples at Emmaus')"
-290,True,False,False,"('Unknown', 'Master of 1416')"
-291,True,False,False,"('Unknown', 'Master of the Acts of Mercy')"
-292,True,False,False,"('Unknown', 'North Netherlandish Painter')"
-293,True,False,False,"('Juan', 'Dò')"
-294,True,False,False,"('Flemish', 'Master of the Béguins (possibly Abraham Willemsens')"
-295,True,False,False,"('Unknown', 'Master of the Castello Nativity')"
-296,True,False,False,"('Unknown', 'Master of Flora')"
-297,True,False,False,"('Unknown', 'Master LC')"
-298,True,False,False,"('Unknown', 'Master of the Lanckoronski Annunciation')"
-299,True,False,False,"('Unknown', 'Netherlandish (Antwerp) Painter')"
-300,True,False,False,"('Unknown', 'Master G.Z.')"
-301,True,False,False,"('Unknown', 'Master of the Mansi Magdalen')"
-302,True,False,False,"('Unknown', 'Master of the Orcagnesque Misericordia')"
-303,True,False,False,"('Unknown', 'Master of Varlungo')"
-304,True,False,False,"('Unknown', 'Master called Pseudo-Pier Francesco Fiorentino')"
-305,True,False,False,"('Unknown', 'Master of the View of Sainte Gudule')"
-306,True,False,False,"('Unknown', 'Marco di Paolo Veneziano')"
-307,True,False,False,"('Unknown', 'Master of the Saint Ursula Legend')"
-308,True,False,False,"('Unknown', 'Master of the Story of Joseph')"
-309,True,False,False,"('Unknown', 'Master of the Virgin among Virgins')"
-310,True,False,False,"('Unknown', 'Matteo di Giovanni di Bartolo')"
-311,True,False,False,"('Luis', 'Meléndez')"
-312,True,False,False,"('Lippo (Filippo di Memmo)', 'Memmi')"
-313,True,False,False,"('Georges', 'Michel')"
-314,True,False,False,"('Unknown', 'Michele da Verona (Michele di Zenone)')"
-315,True,False,False,"('Jean', 'Michelin')"
-316,True,False,False,"('Unknown', 'Michelino da Besozzo (Michelino de Mulinari)')"
-317,True,False,False,"('Frans van', 'Mieris')"
-318,True,False,False,"('Unknown', 'Monogrammist LAM')"
-319,True,False,False,"('Bartolomeo (Bartolomeo Cincani)', 'Montagna')"
-320,True,False,False,"('Unknown', 'Moretto da Brescia (Alessandro Bonvicino)')"
-321,True,False,False,"('Bartolomé Estebán', 'Murillo')"
-322,True,False,False,"('Frans', 'Francken')"
-323,True,False,False,"('Pieter', 'Neeffs')"
-324,True,False,False,"('Unknown', ""Neroccio de' Landi"")"
-325,True,False,False,"('Mikhail Vasilievich', 'Nesterov')"
-326,True,False,False,"('Unknown', 'Netherlandish (Bruges) Painter')"
-327,True,False,False,"('Unknown', 'North Netherlandish (Utrecht?) Painter')"
-328,True,False,False,"('Unknown', 'Master of the Female Half-Lengths')"
-329,True,False,False,"('Unknown', 'Netherlandish (Antwerp Mannerist) Painter')"
-330,True,False,False,"('Unknown', 'Netherlandish Painter (possibly Goswijn van der Weyden')"
-331,True,False,False,"('Unknown', 'Master of the Dinteville Allegory')"
-332,True,False,False,"('Unknown', 'Niccolò di Buonaccorso')"
-333,True,False,False,"('Unknown', 'Niccolò di Pietro')"
-334,True,False,False,"(""L' (Giovanni Battista Benvenuti)"", 'Ortolano')"
-335,True,False,False,"('Unknown', 'Osma Master')"
-336,True,False,False,"('Pieter van', 'Overschee')"
-337,True,False,False,"('Guido (Guiduccio Palmerucci)', 'Palmeruccio')"
-338,True,False,False,"('Unknown', 'Paolo Veneziano')"
-339,True,False,False,"('Jean-Baptiste Joseph', 'Pater')"
-340,True,False,False,"('Robert', 'Peake')"
-341,True,False,False,"('Léon-Germain', 'Pelouse')"
-342,True,False,False,"('Vasilii Grigorievich', 'Perov')"
-343,True,False,False,"('Unknown', 'Peruvian (Cuzco) Painter')"
-344,True,False,False,"('Unknown', 'Perugino (Pietro di Cristoforo Vannucci)')"
-345,True,False,False,"('Unknown', 'Pesellino (Francesco di Stefano)')"
-346,True,False,False,"('August Xaver Karl von', 'Pettenkofen')"
-347,True,False,False,"('Charles', 'Philips')"
-348,True,False,False,"('Unknown', ""Piero di Cosimo (Piero di Lorenzo di Piero d'Antonio)"")"
-349,True,False,False,"('Unknown', 'Pietro di Domenico da Montepulciano')"
-350,True,False,False,"('Unknown', 'Pietro di Francesco Orioli')"
-351,True,False,False,"('Antoine-Émile', 'Plassan')"
-352,True,False,False,"('Vasilii Dmitrievich', 'Polenov')"
-353,True,False,False,"('Piero del (Piero di Jacopo Benci)', 'Pollaiuolo')"
-354,True,False,False,"('Frans', 'Pourbus')"
-355,True,False,False,"('Mattia (Il Cavalier Calabrese)', 'Preti')"
-356,True,False,False,"('Scipione (Il Gaetano)', 'Pulzone')"
-357,True,False,False,"('Pieter Jansz.', 'Quast')"
-358,True,False,False,"('Unknown', 'Raffaellino del Garbo')"
-359,True,False,False,"('Unknown', 'Raphael')"
-360,True,False,False,"('Unknown', 'Rembrandt (Rembrandt van Rijn)')"
-361,True,False,False,"('Unknown', 'Rembrandt')"
-362,True,False,False,"('Jusepe de (called Lo Spagnoletto)', 'Ribera')"
-363,True,False,False,"('Théodule-Augustin', 'Ribot')"
-364,True,False,False,"('Martín', 'Rico y Ortega')"
-365,True,False,False,"('Unknown', 'Rogier van der Weyden')"
-366,True,False,False,"('Franz Wolfgang', 'Rohrich')"
-367,True,False,False,"('George', 'Romney')"
-368,True,False,False,"('Henri (le Douanier)', 'Rousseau')"
-369,True,False,False,"('Unknown', 'Russian Painter')"
-370,True,False,False,"('David', 'Ryckaert')"
-371,True,False,False,"(""Francesco (Francesco de' Rossi)"", 'Salviati')"
-372,True,False,False,"('Alonzo', 'Sánchez Coello')"
-373,True,False,False,"(""Andrea del (Andrea d'Agnolo)"", 'Sarto')"
-374,True,False,False,"('Unknown', 'Sassetta (Stefano di Giovanni)')"
-375,True,False,False,"('Alexei Kondratievich', 'Savrasov')"
-376,True,False,False,"('August Friedrich Albrecht', 'Schenck')"
-377,True,False,False,"('Andrea (Andrea Meldola)', 'Schiavone')"
-378,True,False,False,"('Samuel', 'Scott')"
-379,True,False,False,"('Unknown', 'Sebastiano del Piombo (Sebastiano Luciani)')"
-380,True,False,False,"('Unknown', 'Sebastiano del Piombo')"
-381,True,False,False,"('Unknown', 'Segna di Buonaventura')"
-382,True,False,False,"(""Luca (Luca d'Egidio di Luca di Ventura)"", 'Signorelli')"
-383,True,False,False,"('Pieter van', 'Slingelandt')"
-384,True,False,False,"('Unknown', 'Spanish (Sevillian) Painter')"
-385,True,False,False,"('Unknown', 'Spanish (Castilian) Painter')"
-386,True,False,False,"('Unknown', 'Spanish (Catalan) Painter')"
-387,True,False,False,"('Unknown', 'Spanish (Oña) Painter')"
-388,True,False,False,"('Unknown', 'Spanish (Valencian) Painter')"
-389,True,False,False,"('Hendrick van', 'Steenwijck')"
-390,True,False,False,"('Alfred', 'Stevens')"
-391,True,False,False,"('Unknown', 'Swiss Painter')"
-392,True,False,False,"('David', 'Teniers')"
-393,True,False,False,"('Jacopo (Jacopo Robusti)', 'Tintoretto')"
-394,True,False,False,"('Unknown', 'Titian (Tiziano Vecellio)')"
-395,True,False,False,"('Unknown', 'Titian')"
-396,True,False,False,"('Unknown', 'Tommaso Fiorentino (Tommaso di Stefano Lunetti)')"
-397,True,False,False,"('Robert Levrac', 'Tournières')"
-398,True,False,False,"('Pierre Charles', 'Trémolières')"
-399,True,False,False,"('Cosmè (Cosimo di Domenico di Bonaventura)', 'Tura')"
-400,True,False,False,"('Emmanuel', 'Tzanès')"
-401,True,False,False,"('Unknown', 'Giovanni di Franco')"
-402,True,False,False,"('Carle (Charles André)', 'Vanloo')"
-403,True,False,False,"('Lippo (Lippo Vanni di Giovanni)', 'Vanni')"
-404,True,False,False,"('Nicolaes van', 'Veerendael')"
-405,True,False,False,"('Unknown', 'Velázquez (Diego Rodríguez de Silva y Velázquez)')"
-406,True,False,False,"('Unknown', 'Velázquez')"
-407,True,False,False,"('Carle (Antoine Charles Horace)', 'Vernet')"
-408,True,False,False,"('Paolo (Paolo Caliari)', 'Veronese')"
-409,True,False,False,"('José', 'Villegas y Cordero')"
-410,True,False,False,"('Marie Denise', 'Villers')"
-411,True,False,False,"('Abraham de', 'Vries')"
-412,True,False,False,"('Richard', 'Wilson')"
-413,True,False,False,"('Joseph (Wright of Derby)', 'Wright')"
-414,True,False,False,"('Francesco (Francesco di Bosio)', 'Zaganelli')"
-415,True,False,False,"('Unknown', 'Sodoma (Giovanni Antonio Bazzi)')"
-416,True,False,False,"('Goffredo', 'Wals')"
-417,True,False,False,"('Unknown', 'Santi di Tito')"
-418,True,False,False,"('Unknown', 'Scarsellino (Ippolito Scarsella)')"
-419,True,False,False,"('Unknown', 'Master of the Berswordt Altar')"
-420,True,False,False,"('Joseph', 'Bidauld')"
-421,True,False,False,"('Alexandre Evariste', 'Fragonard')"
-422,True,False,False,"('André', 'Giroux')"
-423,True,False,False,"('Antoine-Xavier-Gabriel de Gazeau', 'La Bouëre')"
-424,True,False,False,"('Jean-François', 'Montessuy')"
-425,True,False,False,"('Léon', 'Pallière')"
-426,True,False,False,"('François Édouard', 'Picot')"
-427,True,False,False,"('Paul-Narcisse', 'Salières')"
-428,True,False,False,"('Pierre Antoine Augustin', 'Vafflard')"
-429,True,False,False,"('Pierre Henri de', 'Valenciennes')"
-430,True,False,False,"('Eugène-Joseph', 'Verboeckhoven')"
-431,True,False,False,"('Unknown', 'Duccio di Buoninsegna')"
-432,True,False,False,"('Unknown', 'South German (Bavarian?) Painter')"
-433,True,False,False,"('Bruno', 'Marzi')"
-434,True,False,False,"('Umberto', 'Giunti')"
-435,True,False,False,"('Julius von', 'Leypold')"
-436,True,False,False,"('August', 'Heinrich')"
-437,True,False,False,"('Unknown', 'Cels Jean-Michel')"
-438,True,False,False,"('Gilles-François-Joseph', 'Closson')"
-439,True,False,False,"('Jean Antoine', 'Constantin')"
-440,True,False,False,"('Unknown', 'Desgoffe Alexandre')"
-441,True,False,False,"('Unknown', 'Fleury Léon')"
-442,True,False,False,"('Thomas', 'Jones')"
-443,True,False,False,"('Unknown', 'Leprince Robert-Léopold')"
-444,True,False,False,"('Unknown', 'Lucas August')"
-445,True,False,False,"('Unknown', 'Reinhold Heinrich')"
-446,True,False,False,"('Unknown', 'Ricois François-Edme')"
-447,True,False,False,"('Unknown', 'Söderberg Gustaf')"
-448,True,False,False,"('Wolfgang Adam', 'Töpffer')"
-449,True,False,False,"('Lancelot Théodore', 'Turpin de Crissé')"
-450,True,False,False,"('Joséphine', 'Sarazin de Belmont')"
-451,True,False,False,"('ca. 1825', 'French Painter (Antoine-Félix Boisselier?)')"
-452,True,False,False,"('Giovanni Battista', 'Camuccini')"
-453,True,False,False,"('Unknown', 'Valentin de Boulogne')"
-454,True,False,False,"('Alexandre', 'Dubuisson')"
-455,True,False,False,"('Ernest-Joachim', 'Dumax')"
-456,True,False,False,"('Christian Friedrich', 'Gille')"
-457,True,False,False,"('Unknown', 'Marstrand Wilhelm')"
-458,True,False,False,"('Antoine Pierre', 'Mongin')"
-459,True,False,False,"('Carl', 'Morgenstern')"
-460,True,False,False,"('Friedrich', 'Nerly')"
-461,True,False,False,"('Gustav Wilhelm', 'Palm')"
-462,True,False,False,"('George Augustus', 'Wallis')"
-463,True,False,False,"('Unknown', 'Faber Johann Joachim')"
-464,True,False,False,"('Jacopo (Jacopo da Ponte)', 'Bassano')"
-465,True,False,False,"('Anton', 'Dieffenbach')"
-466,True,False,False,"('Filippo', 'Tarchiani')"
-467,True,False,False,"('Unknown', 'Ugolino da Siena')"
-468,True,False,False,"('Unknown', 'Perino del Vaga (Pietro Buonaccorsi)')"
-469,True,False,False,"('Peter (Pieter de Witte', 'Candid')"
-470,True,False,False,"('Jean', 'Lecomte du Nouÿ')"
-471,True,False,False,"('Philippe', 'Pavy')"
-472,True,False,False,"('Ottavio (Il Padovano)', 'Leoni')"
-473,True,False,False,"('Augustín', 'Esteve y Marques')"
-474,True,False,False,"(""Isma'il"", 'Gulgee')"
-475,True,False,False,"('Samira', 'Abbassy')"
-476,True,False,False,"('Fereydoun', 'Ave')"
-477,True,False,False,"('Seyed Mohammad', 'Ehsaey')"
-478,True,False,False,"('Unknown', 'Bartolo di Fredi')"
-479,True,False,False,"('Workshop of', 'Niccolò di Buonaccorso')"
-480,True,False,False,"('Unknown', 'Goodhart Ducciesque Master')"
-481,True,False,False,"('Giovanni Antonio', 'da Pesaro')"
-482,True,False,False,"('Unknown', 'Osservanza Master')"
-483,True,False,False,"('Unknown', 'Sano di Pietro (Ansano di Pietro di Mencio)')"
-484,True,False,False,"('Icilio Federico', 'Ioni')"
-485,True,False,False,"('Unknown', 'Benvenuto di Giovanni')"
-486,True,False,False,"('Maestro', 'Daddesco')"
-487,True,False,False,"('Workshop of', 'Botticelli')"
-488,True,False,False,"('Unknown', 'Spinello Aretino (Spinello di Luca Spinelli)')"
-489,True,False,False,"('Andrea di (Orcagna)', 'Cione')"
-490,True,False,False,"('Unknown', 'Jacopo di Cione')"
-491,True,False,False,"('Unknown', 'Bicci di Lorenzo')"
-492,True,False,False,"('Unknown', 'Neri di Bicci')"
-493,True,False,False,"('Unknown', 'Master of Marradi')"
-494,True,False,False,"('Unknown', 'Alesso di Benozzo')"
-495,True,False,False,"('Unknown', 'Lorenzo Veneziano')"
-496,True,False,False,"('Unknown', 'Master of Forlì')"
-497,True,False,False,"('Unknown', 'di Maestro Antonio')"
-498,True,False,False,"('Unknown', 'Maestro delle Storie del Pane')"
-499,True,False,False,"('Lombard (probably Pavia)', 'Italian')"
-500,True,False,False,"('Unknown', 'Master of the Dominican Effigies')"
-501,True,False,False,"('Unknown', 'Antonio del Massaro da Viterbo')"
-502,True,False,False,"('Neapolitan Follower of Giotto', 'Italian')"
-503,True,False,False,"('Unknown', 'Master of Saint Francis')"
-504,True,False,False,"('Unknown', 'Puccio di Simone')"
-505,True,False,False,"('Unknown', 'Niccolò Alunno (Niccolò di Liberatore)')"
-506,True,False,False,"('of uncertain date', 'Italian Painter')"
-507,True,False,False,"('Unknown', 'Master of Frankfurt')"
-508,True,False,False,"('second half of 16th century', 'Netherlandish Painter')"
-509,True,False,False,"('Unknown', 'Netherlandis')"
-510,True,False,False,"('17th century', 'Dutch (Utrecht Caravaggist) Painter')"
-511,True,False,False,"('Unknown', 'Netherlandish or French')"
-512,True,False,False,"('Jean (called Master of Moulins)', 'Hey')"
-513,True,False,False,"('Unknown', 'Master of Saint Giles')"
-514,True,False,False,"('Attributed to', 'Corneille de Lyon')"
-515,True,False,False,"('Unknown', 'Master of the Munich Bavarian Panels')"
-516,True,False,False,"('Unknown', 'German')"
-517,True,False,False,"('Unknown', 'Master H.A. or A.H.')"
-518,True,False,False,"('about 1640–50', 'Dutch (Amsterdam) Painter')"
-519,True,False,False,"('Jean Jacques', 'Hauer')"
-520,True,False,False,"('Paul-Désiré', 'Trouillebert')"
-521,True,False,False,"('Unknown', 'Netherlandish')"
-522,True,False,False,"('Unknown', 'Ugolino da Siena (Ugolino di Nerio)')"
-523,True,False,False,"('Unknown', 'Barna da Siena')"
-524,True,False,False,"('Unknown', ""d'Espagnat Georges"")"
-525,True,False,False,"('Unknown', 'Balthus (Balthasar Klossowski)')"
-526,True,False,False,"('Unknown', ""Pietro di Giovanni d'Ambrogio"")"
-527,True,False,False,"('Roger', 'Bezombes')"
-528,True,False,False,"('Dietz', 'Edzard')"
-529,True,False,False,"('Edouard', 'Pignon')"
-530,True,False,False,"('Unknown', 'Ruiz Cristóbal Attributed to')"
-531,True,False,False,"('Carlo', 'Canevari')"
-532,True,False,False,"('Armand', 'Sinko')"
-533,True,False,False,"('Constantin Alexandrovitch', 'Westchiloff')"
-534,True,False,False,"('Raymond', 'Legueult')"
-535,True,False,False,"('Unknown', 'Kulkarni Dattatray Gundo')"
-536,True,False,False,"('Unknown', 'Ambille Paul')"
-537,True,False,False,"('Unknown', 'French or American')"
-538,True,False,False,"('Unknown', 'Terechkovitch')"
-539,True,False,False,"('Unknown', 'Bauchant André')"
-540,True,False,False,"('Lucy', 'Valore')"
-541,True,False,False,"('Emil', 'Grau-Sala')"
-542,True,False,False,"('Unknown', 'American Painter')"
-543,True,False,False,"('André', 'Brasilier')"
-544,True,False,False,"('Unknown', 'Rohner George')"
-545,True,False,False,"('Unknown', 'Vertès Marcel')"
-546,True,False,False,"('Unknown', 'Master of Belmonte')"
-547,True,False,False,"('Unknown', 'Master of Saint Augustine')"
-548,True,False,False,"('Unknown', 'Master of the Codex of Saint George')"
-549,True,False,False,"('Unknown', 'Niccolò di Tommaso')"
-550,True,False,False,"('Jonas', 'Lie')"
-551,True,False,False,"('Ward', 'Lockwood')"
-552,True,False,False,"('Vasili', 'Shoukhaiev')"
-553,True,False,False,"('James Whitn', 'Fosburgh')"
-554,True,False,False,"('Raymond', 'Parker')"
-555,True,False,False,"('Sally Hazel', 'Drummond')"
-556,True,False,False,"('Ludwig', 'Sander')"
-557,True,False,False,"('James', 'Brooks')"
-558,True,False,False,"('Charles', 'Picco')"
-559,True,False,False,"('Arthur B', 'Carles')"
-560,True,False,False,"('John', 'Mclaughlin')"
-561,True,False,False,"('Bob', 'Thompson')"
-562,True,False,False,"('Jean', 'Dewasne')"
-563,True,False,False,"('David', 'Budd')"
-564,True,False,False,"('John', 'Day')"
-565,True,False,False,"('Gertrude Glas', 'Greene')"
-566,True,False,False,"('William', 'Nicholson')"
-567,True,False,False,"('I J', 'Belmont')"
-568,True,False,False,"('Thom', 'Lanigan-Schmidt')"
-569,True,False,False,"('Meraud', 'Guevara')"
-570,True,False,False,"('Frederick J', 'Brown')"
-571,True,False,False,"('Francois', 'Rouan')"
-572,True,False,False,"('Jean Isy de', 'Botton')"
-573,True,False,False,"('Maurice', 'Golubov')"
-574,True,False,False,"('Gwenn', 'Thomas')"
-575,True,False,False,"('Warren', 'Brandt')"
-576,True,False,False,"('Joan', 'Witek')"
-577,True,False,False,"('John Clem', 'Clarke')"
-578,True,False,False,"('Ed', 'Baynard')"
-579,True,False,False,"('Michael', 'Andrews')"
-580,True,False,False,"('Dimitrie', 'Berea')"
-581,True,False,False,"('Mervin', 'Honig')"
-582,True,False,False,"('Luise', 'Kaish')"
-583,True,False,False,"('Stuart', 'Davis')"
-584,True,False,False,"('Morris', 'Shulman')"
-585,True,False,False,"('Nicolas De', 'Stael')"
-586,True,False,False,"('Robert', 'Swain')"
-587,True,False,False,"('Sanford', 'Wurmfeld')"
-588,True,False,False,"('Karl', 'Schrag')"
-589,True,False,False,"('C K', 'Chatterton')"
-590,True,False,False,"('Rex', 'Lau')"
-591,True,False,False,"('Unknown', 'Man Ray')"
-592,True,False,False,"('Horacio', 'Torres')"
-593,True,False,False,"('Stephen', 'Edlich')"
-594,True,False,False,"('Michael', 'David')"
-595,True,False,False,"('Randy', 'Dudley')"
-596,True,False,False,"('John', 'Moore')"
-597,True,False,False,"('John', 'Walker')"
-598,True,False,False,"('Marjorie', 'Portnow')"
-599,True,False,False,"('Jacob El', 'Hanani')"
-600,True,False,False,"('Paul', 'Trebilcock')"
-601,True,False,False,"('Rafael', 'Ferrer')"
-602,True,False,False,"('Gabor F.', 'Peterdi')"
-603,True,False,False,"('Tom', 'Lieber')"
-604,True,False,False,"('David', 'Smith')"
-605,True,False,False,"('David', 'Park')"
-606,True,False,False,"('Lizbeth', 'Mitty')"
-607,True,False,False,"('Lynn', 'Bostick')"
-608,True,False,False,"('Lester', 'Johnson')"
-609,True,False,False,"('Chuck', 'Forsman')"
-610,True,False,False,"('Warren', 'Rohrer')"
-611,True,False,False,"('Ralph', 'Mayer')"
-612,True,False,False,"('Roger', 'Brown')"
-613,True,False,False,"('Hugh', ""O'Donnell"")"
-614,True,False,False,"('James', 'Mcgarrell')"
-615,True,False,False,"('Tod', 'Wizon')"
-616,True,False,False,"('David', 'Bates')"
-617,True,False,False,"('Duncan', 'Hannah')"
-618,True,False,False,"('Jacques', 'Hartmann')"
-619,True,False,False,"('Dennis', 'Smith')"
-620,True,False,False,"('Leonard', 'Koscianski')"
-621,True,False,False,"('James G', 'Davis')"
-622,True,False,False,"('Walter', 'Hatke')"
-623,True,False,False,"('Alan', 'Shields')"
-624,True,False,False,"('Mark', 'Wethli')"
-625,True,False,False,"('Ed', 'Garman')"
-626,True,False,False,"('Nicholas', 'Africano')"
-627,True,False,False,"('Saul', 'Villa')"
-628,True,False,False,"('George', 'Nick')"
-629,True,False,False,"('Joseph', 'Santore')"
-630,True,False,False,"('John', 'Mcnamara')"
-631,True,False,False,"('Joseph', 'Floch')"
-632,True,False,False,"('Peter', 'Solow')"
-633,True,False,False,"('Thomas', 'Nozkowski')"
-634,True,False,False,"('George', 'Peck')"
-635,True,False,False,"('Azaceta Luis', 'Cruz')"
-636,True,False,False,"('George L K', 'Morris')"
-637,True,False,False,"('Unknown', 'Arakawa')"
-638,True,False,False,"('Jules', 'Kirschenbaum')"
-639,True,False,False,"('Stone', 'Roberts')"
-640,True,False,False,"('George', 'Mcneil')"
-641,True,False,False,"('John', 'Hull')"
-642,True,False,False,"('Glenn', 'Goldberg')"
-643,True,False,False,"('Peter', 'Fletcher')"
-644,True,False,False,"('Ron', 'Janowich')"
-645,True,False,False,"('Mark', 'Luyten')"
-646,True,False,False,"('Jim', 'Waid')"
-647,True,False,False,"('Tom', 'Fellner')"
-648,True,False,False,"('Thomas', 'Schindler')"
-649,True,False,False,"('Catherine', 'Murphy')"
-650,True,False,False,"('Graham', 'Nickson')"
-651,True,False,False,"('Robert', 'Greene')"
-652,True,False,False,"('Avner', 'Moriah')"
-653,True,False,False,"('Mary', 'Mabbutt')"
-654,True,False,False,"('Jonathan', 'Waller')"
-655,True,False,False,"('John', 'Beerman')"
-656,True,False,False,"('Roberto', 'Juarez')"
-657,True,False,False,"('William', 'Robinson')"
-658,True,False,False,"('Steve', 'Hawley')"
-659,True,False,False,"('David', 'Reed')"
-660,True,False,False,"('Arturo', 'Rodriguez')"
-661,True,False,False,"('Unknown', 'Ben-Zion')"
-662,True,False,False,"('Rudolf', 'Ray')"
-663,True,False,False,"('Peter', 'Blake')"
-664,True,False,False,"('Thomas S', 'Buechner')"
-665,True,False,False,"('Paul', 'Manes')"
-666,True,False,False,"('Eda Mirsky', 'Mann')"
-667,True,False,False,"('Jim', 'Sullivan')"
-668,True,False,False,"('Peter', 'Waite')"
-669,True,False,False,"('Robert', 'Mason')"
-670,True,False,False,"('Lydia', 'Dona')"
-671,True,False,False,"('Yuri', 'Kuper')"
-672,True,False,False,"('Donald', 'Shambroom')"
-673,True,False,False,"('Viacheslav', 'Kalinin')"
-674,True,False,False,"('Elizabeth', 'Murray')"
-675,True,False,False,"('George', 'Constant')"
-676,True,False,False,"('Dorothy', 'Eisner')"
-677,True,False,False,"('Robert', 'Bordo')"
-678,True,False,False,"('Randall', 'Deihl')"
-679,True,False,False,"('Timothy', 'Lowly')"
-680,True,False,False,"('Carole', 'Robb')"
-681,True,False,False,"('Richard', 'Clarke')"
-682,True,False,False,"('Juan', 'Sanchez')"
-683,True,False,False,"('Cynthia Hazen', 'Polsky')"
-684,True,False,False,"('Helen Miranda', 'Wilson')"
-685,True,False,False,"('Sally', 'Heywood')"
-686,True,False,False,"('Aaron', 'Fink')"
-687,True,False,False,"('Salle Werner', 'Vaughn')"
-688,True,False,False,"('Ruben', 'Ortiz')"
-689,True,False,False,"('Veites Jose', 'Gonzalez')"
-690,True,False,False,"('Sally Michel', 'Avery')"
-691,True,False,False,"('Alejandro', 'Arango')"
-692,True,False,False,"('Dulce Maria', 'Nunez')"
-693,True,False,False,"('Frederick', 'Serger')"
-694,True,False,False,"('Susana', 'Sierra')"
-695,True,False,False,"('Jose Luis', 'Romo')"
-696,True,False,False,"('Del Campo Mar', 'Martin')"
-697,True,False,False,"('Lenero Miguel', 'Castro')"
-698,True,False,False,"('Robert', 'Cumming')"
-699,True,False,False,"('Unknown', 'Afro')"
-700,True,False,False,"('Adan', 'Hernandez')"
-701,True,False,False,"('Merrill', 'Mahaffey')"
-702,True,False,False,"('Amy', 'Weiskopf')"
-703,True,False,False,"('Houghton Cranf', 'Smith')"
-704,True,False,False,"('Federico', 'Vegas')"
-705,True,False,False,"('Harry', 'Kramer')"
-706,True,False,False,"('Eugenie', 'Baizerman')"
-707,True,False,False,"('Jerome', 'Carlin')"
-708,True,False,False,"('Bill', 'Jacklin')"
-709,True,False,False,"('Da Silva Mari', 'Vieira')"
-710,True,False,False,"('Unknown', 'Komar & Melamid')"
-711,True,False,False,"('Norman', 'Lewis')"
-712,True,False,False,"('John R', 'Fudge')"
-713,True,False,False,"('Unknown', 'Boyd & Evans')"
-714,True,False,False,"('James D', 'Butler')"
-715,True,False,False,"('O Louis', 'Guglielmi')"
-716,True,False,False,"('Don', 'Nice')"
-717,True,False,False,"('Douglas', 'Safranek')"
-718,True,False,False,"('William', 'Anthony')"
-719,True,False,False,"('Paul', 'Hawdon')"
-720,True,False,False,"('Jorge', 'Eduardo')"
-721,True,False,False,"('Mariano', 'Sapia')"
-722,True,False,False,"('Y Z', 'Kami')"
-723,True,False,False,"('Judith', 'Cotton')"
-724,True,False,False,"('Kay', 'Walkingstick')"
-725,True,False,False,"('Richmond', 'Burton')"
-726,True,False,False,"('Lois Bartlett', 'Tracy')"
-727,True,False,False,"('Leonid', 'Lamm')"
-728,True,False,False,"('Miguel', 'Padura')"
-729,True,False,False,"('Georges', 'Noel')"
-730,True,False,False,"('Daniel', 'Rolph')"
-731,True,False,False,"('Edwina', 'Leapman')"
-732,True,False,False,"('Nicol', 'Granger-Taylor')"
-733,True,False,False,"('Raymond', 'Saunders')"
-734,True,False,False,"('Elaine', 'De Kooning')"
-735,True,False,False,"('Stephen', 'Greene')"
-736,True,False,False,"('Robert', 'Harms')"
-737,True,False,False,"('Niles', 'Spencer')"
-738,True,False,False,"('Wilbur', 'Niewald')"
-739,True,False,False,"('Arturo', 'Elizondo')"
-740,True,False,False,"('Won-Gi', 'Sul')"
-741,True,False,False,"('Keun-Joong', 'Kim')"
-742,True,False,False,"('Dong-Koo', 'Yun')"
-743,True,False,False,"('Tchah-Sup', 'Kim')"
-744,True,False,False,"('Unknown', 'Gory')"
-745,True,False,False,"('Lawrence H', 'Lebduska')"
-746,True,False,False,"('Henry', 'Pearson')"
-747,True,False,False,"('Aldro T.', 'Hibbard')"
-748,True,False,False,"('Felicie Waldo', 'Howell')"
-749,True,False,False,"('A Sheldon', 'Pennoyer')"
-750,True,False,False,"('Ogden M.', 'Pleissner')"
-751,True,False,False,"('Reginald', 'Marsh')"
-752,True,False,False,"('Henry Lee', 'Mcfee')"
-753,True,False,False,"('Thomas Hart', 'Benton')"
-754,True,False,False,"('Frederic M', 'Grant')"
-755,True,False,False,"('Hobson', 'Pittman')"
-756,True,False,False,"('Mary Hoover', 'Aiken')"
-757,True,False,False,"('Edith C.', 'Blum')"
-758,True,False,False,"('Irene De', 'Bohus')"
-759,True,False,False,"('Paul Valentine', 'Lantz')"
-760,True,False,False,"('Junius', 'Allen')"
-761,True,False,False,"('Darrel', 'Austin')"
-762,True,False,False,"('William Scott', 'Pyle')"
-763,True,False,False,"('Lyonel Charles', 'Feininger')"
-764,True,False,False,"('Raymond', 'Breinin')"
-765,True,False,False,"('Charles Houghton', 'Howard')"
-766,True,False,False,"('Frank', 'Kleinholz')"
-767,True,False,False,"('Kurt Ferdinan', 'Roesch')"
-768,True,False,False,"('Josef', 'Presser')"
-769,True,False,False,"('Remo', 'Farruggio')"
-770,True,False,False,"('Reginald', 'Wilson')"
-771,True,False,False,"('Joseph De', 'Martini')"
-772,True,False,False,"('Ben', 'Benn')"
-773,True,False,False,"('Lee', 'Jackson')"
-774,True,False,False,"('Unknown', 'Leonid')"
-775,True,False,False,"('Nahum', 'Tschacbasov')"
-776,True,False,False,"('Franklin', 'Watkins')"
-777,True,False,False,"('John', 'Weeks')"
-778,True,False,False,"('Ronald', 'Tizard')"
-779,True,False,False,"('Michel Alexa', 'Werboff')"
-780,True,False,False,"('Margit', 'Varga')"
-781,True,False,False,"('Everett', 'Spruce')"
-782,True,False,False,"('Sta', 'Macdonald-Wright')"
-783,True,False,False,"('Arthur', 'Osver')"
-784,True,False,False,"('Andrew Micha', 'Dasburg')"
-785,True,False,False,"('Peppino', 'Mangravite')"
-786,True,False,False,"('Attilio', 'Salemme')"
-787,True,False,False,"('William Gros', 'Congdon')"
-788,True,False,False,"('Gonzalo', 'Ariza')"
-789,True,False,False,"('Prince Of Sweden', 'Eugen')"
-790,True,False,False,"('Charles Kenne', 'Sibley')"
-791,True,False,False,"('Charles', 'Shaw')"
-792,True,False,False,"('Victor', 'Candell')"
-793,True,False,False,"('Eliot', 'Clark')"
-794,True,False,False,"('John', 'Heliker')"
-795,True,False,False,"('Lodewijk Ka', 'Bruckman')"
-796,True,False,False,"('Nancy Ellen', 'Craig')"
-797,True,False,False,"('Carl A', 'Morris')"
-798,True,False,False,"('Aaron A', 'Shikler')"
-799,True,False,False,"('John', 'Carroll')"
-800,True,False,False,"('Millie Bruhl', 'Fredrick')"
-801,True,False,False,"('Patricia', 'Cunningham')"
-802,True,False,False,"('Sidney', 'Laufman')"
-803,True,False,False,"('Jerome', 'Blum')"
-804,True,False,False,"('André-Dunoyer de', 'Segonzac')"
-805,True,False,False,"('Pierre', 'Laprade')"
-806,True,False,False,"('John', 'Graham')"
-807,True,False,False,"('Alan', 'Reynolds')"
-808,True,False,False,"('Rollin', 'Crampton')"
-809,True,False,False,"('Vanessa Stephen', 'Bell')"
-810,True,False,False,"('Edgar', 'Levy')"
-811,True,False,False,"('Wilhelm', 'Moser')"
-812,True,False,False,"('Scott', 'Fraser')"
-813,True,False,False,"('Tremain', 'Smith')"
-814,True,False,False,"('Martin', 'Kline')"
-815,True,False,False,"('Mari-Louise', 'Van Esselstyn')"
-816,True,False,False,"('John', 'Gibson')"
-817,True,False,False,"('Anne', 'Peretz')"
-818,True,False,False,"('Jim', 'Torok')"
-819,True,False,False,"('Karel', 'Nel')"
-820,True,False,False,"('William', 'Scott')"
-821,True,False,False,"('Tom', 'Levine')"
-822,True,False,False,"('Sukhrob', 'Kurbanov')"
-823,True,False,False,"('Arthur', 'Segal')"
-824,True,False,False,"('Joseph Mellor', 'Hanson')"
-825,True,False,False,"('Algernon', 'Newton RA')"
-826,True,False,False,"('Amy', 'Bennett')"
-827,True,False,False,"('Al', 'Loving')"
-828,True,False,False,"('Unknown', 'Mattelson Marvin')"
-829,True,False,False,"('Nasrollah', 'Afjei')"
-830,True,False,False,"('Morris', 'Hirshfield')"
-831,True,False,False,"('Peter', 'Hristoff')"
-832,True,False,False,"('Robert', 'Courtright')"
-833,True,False,False,"('Roberto', 'Parodi')"
-834,True,False,False,"('Bruce', 'Boice')"
-835,True,False,False,"('George', 'Negroponte')"
-836,True,False,False,"('Unknown', 'Jeff')"
-837,True,False,False,"('Peter', 'Bradley')"
-838,True,False,False,"('Chema', 'Cobo')"
-839,True,False,False,"('Terry', 'Allen')"
-840,True,False,False,"('Luis', 'Lizardo')"
-841,True,False,False,"('Donald James', 'Wynn')"
-842,True,False,False,"('Rabell Arnaldo', 'Roche')"
-843,True,False,False,"('John', 'Alexander')"
-844,True,False,False,"('John', 'Tweddle')"
-845,True,False,False,"('Tishan', 'Hsu')"
-846,True,False,False,"('Richard', 'Chiriani')"
-847,True,False,False,"('Frances', 'Barth')"
-848,True,False,False,"('Doug', 'Anderson')"
-849,True,False,False,"('Dana', 'Van Horn')"
-850,True,False,False,"('A Robert', 'Birmelin')"
-851,True,False,False,"('Unknown', 'Broto')"
-852,True,False,False,"('Richard', 'Smith')"
-853,True,False,False,"('Willard', 'Dixon')"
-854,True,False,False,"('Paul', 'Sarkisian')"
-855,True,False,False,"('Nicholas', 'Jolly')"
-856,True,False,False,"('Vladimir', 'Ovchinnikov')"
-857,True,False,False,"('Noah', 'Jemison')"
-858,True,False,False,"('Brad', 'Davis')"
-859,True,False,False,"('Susan', 'Laufer')"
-860,True,False,False,"('Unknown', 'Peltenburg-Brechneff')"
-861,True,False,False,"('In Kie', 'Whang')"
-862,True,False,False,"('Unknown', 'Usui Bumpei')"
-863,True,False,False,"('Haungooah', 'Silver Horn')"
-864,True,False,False,"('Faramarz', 'Pilaram')"
-865,True,False,False,"('Gerardus I', 'Duyckinck')"
-866,True,False,False,"('Francis Blackbear', 'Bosin')"
-867,True,False,False,"('Giovanni Benedetto (Il Grechetto)', 'Castiglione')"
-868,True,False,False,"('Mary T.', 'Smith')"
-869,True,False,False,"('Gunybi', 'Ganambarr')"
-870,True,False,False,"('Sophie', 'von Hellermann')"
-871,True,False,False,"('Marion', 'Sampler')"
-872,True,False,False,"('Kojo', 'Griffin')"
-873,True,False,False,"('Unknown', 'Qiu Anxiong')"
-874,True,False,False,"('Masud', 'Arabshahi')"
-875,True,False,False,"('Hannibal', 'Alkhas')"
-876,True,False,False,"('Carl Maria Nicolaus', 'Hummel')"
-877,True,False,False,"('Alphonse-Henri', 'Périn')"
-878,True,False,False,"('Romain-Étienne-Gabriel', 'Prieur')"
-879,True,False,False,"('Unknown', 'Zubelda Cigarettes')"
-880,True,False,False,"('Jules', 'Tavernier')"
-881,True,False,False,"('Unknown', 'Wang Jian')"
-882,True,False,False,"('Shahpour', 'Pouyan')"
-883,True,False,False,"('Antonio (called Antonio da Crevalcore)', 'Leonelli')"
-884,True,False,False,"('Narcisse', 'Berchère')"
-885,True,False,False,"('José', 'Sánchez')"
-886,True,False,False,"('Elisheva', 'Biernoff')"
-887,True,False,False,"('Yaha', 'Ghaffari')"
+,name,header error,image error,bio error
+0,"('Louis Benjamin Huber', 'Defeuille')",False,False,True
+1,"('Jacques', 'Thouron')",False,False,True
+2,"('Unknown', 'Unknown')",False,False,True
+3,"('Jean-Baptiste', 'Nini')",False,False,True
+4,"('H.', 'Sanford')",False,False,True
+5,"('William P.', 'Babcock')",False,False,True
+6,"('Henry', 'Inman')",False,False,True
+7,"('Ambrose', 'Andrews')",False,False,True
+8,"('G.', 'Baker')",False,False,True
+9,"('George Augustus Jr.', 'Baker')",False,False,True
+10,"('W. H.', 'Bean')",False,True,False
+11,"('Frank W.', 'Benson')",False,False,True
+12,"('Joseph', 'Blackburn')",False,False,True
+13,"('Jacob D.', 'Blondel')",False,False,True
+14,"('Otto', 'Boetticher')",False,False,True
+15,"('George H.', 'Bogert')",False,False,True
+16,"('Frank Myers', 'Boggs')",False,False,True
+17,"('William', 'Bradford')",False,False,True
+18,"('John', 'Bradley')",False,False,True
+19,"('Matilda Auchincloss', 'Brownell')",False,True,False
+20,"('William Gedney', 'Bunce')",False,False,True
+21,"('Howard Russel', 'Butler')",False,False,True
+22,"('James H.', 'Cafferty')",False,False,True
+23,"('John', 'Carlin')",False,False,True
+24,"('Jefferson D.', 'Chalfant')",False,False,True
+25,"('Thomas', 'Chambers')",False,False,True
+26,"('William P.', 'Chappel')",False,False,True
+27,"('Edmund C.', 'Coates')",False,False,True
+28,"('William', 'Coffin')",False,False,True
+29,"('Alfred Q.', 'Collins')",False,False,True
+30,"('Colin Cambell', 'Cooper')",False,False,True
+31,"('Alfred', 'Copestick')",False,False,True
+32,"('Caroline', 'Cranch')",False,False,True
+33,"('Johan Mengels', 'Culverhouse')",False,False,True
+34,"('Léon', 'Dabo')",False,False,True
+35,"('William P. W.', 'Dana')",False,False,True
+36,"('William', 'Dannat')",False,False,True
+37,"('Charles H', 'Davis')",False,False,True
+38,"('Ruger', 'Donoho')",False,False,True
+39,"('Thomas', 'Doughty')",False,False,True
+40,"('Gerrit', 'Duyckinck')",False,False,True
+41,"('Oliver Tarbell', 'Eddy')",False,False,True
+42,"('Carnig', 'Eksergian')",False,False,True
+43,"('James Guy', 'Evans')",False,False,True
+44,"('Joseph', 'Fagnani')",False,False,True
+45,"('Charles Noel', 'Flagg')",False,False,True
+46,"('August R.', 'Franzen')",False,False,True
+47,"('Oliver', 'Frazer')",False,False,True
+48,"('George', 'Fuller')",False,False,True
+49,"('Wilhelm Heinrich', 'Funk')",False,True,False
+50,"('Ignaz Marcel', 'Gaugengigl')",False,False,True
+51,"('Edward', 'Gay')",False,False,True
+52,"('Arthur Clifton', 'Goodwin')",False,False,True
+53,"('Philip L.', 'Hale')",False,False,True
+54,"('James', 'Hamilton')",False,False,True
+55,"('Chester (Charles)', 'Harding')",False,False,True
+56,"('Alexander', 'Harrison')",False,False,True
+57,"('James M.', 'Hart')",False,False,True
+58,"('William', 'Hart')",False,False,True
+59,"('Joseph H.', 'Hidley')",False,False,True
+60,"('John Henry', 'Hill')",False,True,False
+61,"('Thomas', 'Hill')",False,False,True
+62,"('Thomas Hewes', 'Hinckley')",False,False,True
+63,"('George', 'Hitchcock')",False,False,True
+64,"('Richard William', 'Hubbard')",False,False,True
+65,"('F. G. W.', 'Hunten')",False,False,True
+66,"('Daniel', 'Huntington')",False,False,True
+67,"('Charles Wesley', 'Jarvis')",False,False,True
+68,"('David', 'Johnson')",False,False,True
+69,"('Joshua', 'Johnson')",False,False,True
+70,"('William', 'Johnston')",False,False,True
+71,"('H. Bolton', 'Jones')",False,False,True
+72,"('Alphonse', 'Jongers')",False,False,True
+73,"('Theodor', 'Kaufmann')",False,False,True
+74,"('William', 'Keith')",False,False,True
+75,"('Joseph Bartholomew', 'Kidd')",False,False,True
+76,"('Nicholas Biddle', 'Kittell')",False,False,True
+77,"('Jacob Hart', 'Lazarus')",False,False,True
+78,"('John', 'Lillie')",False,False,True
+79,"('George', 'Linen')",False,False,True
+80,"('De Witt McClellan', 'Lockman')",False,False,True
+81,"('Will H.', 'Low')",False,False,True
+82,"('Robert', 'MacCameron')",False,False,True
+83,"('William', 'Magrath')",False,False,True
+84,"('John', 'Mare')",False,True,False
+85,"('George Willoughby', 'Maynard')",False,False,True
+86,"('F. A.', 'Mead')",False,False,True
+87,"('Theodore Sidney', 'Moise')",False,False,True
+88,"('William', 'Page')",False,False,True
+89,"('Dewitt', 'Parshall')",False,False,True
+90,"('Robert', 'Peckham')",False,False,True
+91,"('Jay Campbell', 'Phillips')",False,False,True
+92,"('Theodore E.', 'Pine')",False,False,True
+93,"('Esther Baldwin', 'Williams')",False,False,True
+94,"('Charles Sidney', 'Raleigh')",False,False,True
+95,"('Robert', 'Reid')",False,False,True
+96,"('Chauncey F.', 'Ryder')",False,False,True
+97,"('Platt Powell', 'Ryder')",False,False,True
+98,"('William H.', 'Schenck')",False,False,True
+99,"('Limner', 'Schuyler')",False,False,True
+100,"('Samuel H.', 'Sexton')",False,False,True
+101,"('Alexander', 'Shilling')",False,False,True
+102,"('William Louis', 'Sonntag')",False,False,True
+103,"('Frederick R.', 'Spencer')",False,False,True
+104,"('Vincent G.', 'Stiepevich')",False,False,True
+105,"('George Henry', 'Story')",False,False,True
+106,"('M. A.', 'Sullivan')",False,False,True
+107,"('Thomas Wilcocks', 'Sully')",False,False,True
+108,"('Edward Martin', 'Taber')",False,False,True
+109,"('Allen B.', 'Talcott')",False,False,True
+110,"('Stephen Seymour', 'Thomas')",False,False,True
+111,"('Alfred Wordsworth', 'Thompson')",False,False,True
+112,"('Cephas', 'Thompson')",False,True,False
+113,"('Cephas Giovanni', 'Thompson')",False,False,True
+114,"('Jerome B.', 'Thompson')",False,False,True
+115,"('Thomas', 'Thompson')",False,False,True
+116,"('Stacy', 'Tolman')",False,False,True
+117,"('Jonathan K.', 'Trego')",False,False,True
+118,"('Charles Frederick', 'Ulrich')",False,False,True
+119,"('Lodewijk', 'Tieling')",False,False,True
+120,"('Painter', 'Chinese')",False,False,True
+121,"('Unknown', 'Unknown Artist')",False,False,True
+122,"('Robert W.', 'Vonnoh')",False,False,True
+123,"('A. P.', 'Waite')",False,False,True
+124,"('J. C.', 'Wales')",False,False,True
+125,"('Charles Caleb', 'Ward')",False,False,True
+126,"('Frederick J', 'Waugh')",False,False,True
+127,"('Catherine D.', 'Wentworth')",False,False,True
+128,"('Adolph Ulrich', 'Wertmuller')",False,False,True
+129,"('William', 'Williams')",False,False,True
+130,"('John', 'Wollaston')",False,False,True
+131,"('Joseph', 'Wood')",False,False,True
+132,"('John A.', 'Woodside')",False,False,True
+133,"('Harvey O.', 'Young')",False,False,True
+134,"('Howard', 'Cushing')",False,False,True
+135,"('(or Kilbrunn) Lawrence', 'Kilburn')",False,False,True
+136,"('Albertis del Orient', 'Browere')",False,False,True
+137,"('George W. Jr.', 'Twibill')",False,False,True
+138,"('Robert', 'Spencer')",False,False,True
+139,"('Miriam', 'Washburn')",False,False,True
+140,"('Adelaide Milton', 'de Groot')",False,False,True
+141,"('Clayton S.', 'Price')",False,False,True
+142,"('James', 'Preston')",False,False,True
+143,"('John', 'Kane')",False,False,True
+144,"('Demah Prince', 'Barnes')",False,False,True
+145,"('Unknown', 'Agostino Brunias')",False,False,True
+146,"('Unknown', 'British Painter')",False,False,True
+147,"('Unknown', 'Shaw Stephen William')",False,False,True
+148,"('Unknown', 'Unidentified Artist')",False,False,True
+149,"('Unknown', 'Guan Liang')",False,False,True
+150,"('Unknown', 'Sōami')",False,False,True
+151,"('Unknown', 'Xu Gu')",False,False,True
+152,"('Unknown', 'Wu Changshuo')",False,False,True
+153,"('Unknown', 'Fan Zeng')",False,False,True
+154,"('Unknown', 'Miki Suizan')",False,False,True
+155,"('Unknown', 'Giovanni da Udine (Giovanni dei Ricamatori)')",False,False,True
+156,"('Unknown', 'French Painter')",False,False,True
+157,"('Unknown', 'Wootton James')",False,False,True
+158,"('Unknown', 'Spanish Painter')",False,False,True
+159,"('Hanns', 'Skolle')",False,False,True
+160,"('Isabelle', 'Evans')",False,False,True
+161,"('Charles', 'Clough')",False,False,True
+162,"('Unknown', 'Bryyinyuwuy possibly')",False,False,True
+163,"('Unknown', 'Gill Lunda Hoyle')",False,False,True
+164,"('Ephrem', 'Kouakou')",False,False,True
+165,"('Czech', 'Anonymous')",False,False,True
+166,"('Fra (Guido di Pietro)', 'Angelico')",False,False,True
+167,"('Unknown', ""Antonello da Messina (Antonello di Giovanni d'Antonio)"")",False,False,True
+168,"('Unknown', 'Antonello de Saliba')",False,False,True
+169,"('Unknown', 'Antoniazzo Romano (Antonio di Benedetto Aquilio)')",False,False,True
+170,"('Ulrich', 'Apt')",False,False,True
+171,"('Abram Efimovich', 'Arkhipov')",False,False,True
+172,"('Unknown', ""Bachiacca (Francesco d'Ubertino Verdi)"")",False,False,True
+173,"('Jacob', 'Backer')",False,False,True
+174,"('Dionisio', 'Baixeras y Verdaguer')",False,False,True
+175,"('Hans (called Hans Baldung Grien)', 'Baldung')",False,False,True
+176,"('Ercole', 'Banci')",False,False,True
+177,"('Fra (Bartolomeo di Paolo del Fattorino)', 'Bartolomeo')",False,False,True
+178,"('Unknown', 'Bartolomeo degli Erri')",False,False,True
+179,"('Charles-Édouard de', 'Beaumont')",False,False,True
+180,"('Johannes Abrahamsz', 'Beerstraten')",False,False,True
+181,"('Unknown', 'Benjamin-Constant (Jean-Joseph-Benjamin Constant)')",False,False,True
+182,"('Marie Guillelmine', 'Benoist')",False,False,True
+183,"('Unknown', 'Bergognone (Ambrogio di Stefano da Fossano)')",False,False,True
+184,"('Unknown', 'Berlinghiero')",False,False,True
+185,"('Unknown', 'Bernardino da Genoa')",False,False,True
+186,"('Unknown', ""Biagio d'Antonio"")",False,False,True
+187,"('Henri Joseph van', 'Blarenberghe')",False,False,True
+188,"('Auguste-François', 'Bonheur')",False,False,True
+189,"('Unknown', ""Bonifacio de' Pitati (Bonifacio Veronese)"")",False,False,True
+190,"('Unknown', 'Botticelli (Alessandro di Mariano Filipepi)')",False,False,True
+191,"('Unknown', 'Botticelli')",False,False,True
+192,"('Francesco (Francesco di Giovanni)', 'Botticini')",False,False,True
+193,"('Unknown', 'Bramantino (Bartolomeo Suardi)')",False,False,True
+194,"('John', 'Brett')",False,False,True
+195,"('Unknown', 'Bronzino (Agnolo di Cosimo di Mariano)')",False,False,True
+196,"('Unknown', 'Bronzino')",False,False,True
+197,"('Jan', 'Brueghel')",False,False,True
+198,"('Unknown', 'Budapest Master')",False,False,True
+199,"('Giuliano di Piero di Simone', 'Bugiardini')",False,False,True
+200,"('Unknown', 'Canaletto (Giovanni Antonio Canal)')",False,False,True
+201,"('Unknown', 'Caravaggio (Michelangelo Merisi)')",False,False,True
+202,"('Frei', 'Carlos')",False,False,True
+203,"('Fra (Bartolomeo di Giovanni Corradini)', 'Carnevale')",False,False,True
+204,"('Charles-Auguste-Émile Durant', 'Carolus-Duran')",False,False,True
+205,"('Unknown', 'Catena (Vincenzo di Biagio)')",False,False,True
+206,"('Unknown', 'Cenni di Francesco di Ser Cenni')",False,False,True
+207,"('Unknown', 'Cigoli (Ludovico Cardi)')",False,False,True
+208,"('Unknown', 'Cima da Conegliano (Giovanni Battista Cima)')",False,False,True
+209,"('Unknown', 'Claude Lorrain (Claude Gellée)')",False,False,True
+210,"('Unknown', 'Claude Lorrain')",False,False,True
+211,"('Unknown', 'Corneille de Lyon')",False,False,True
+212,"('Unknown', 'Correggio (Antonio Allegri)')",False,False,True
+213,"('Lucas', 'Cranach')",False,True,True
+214,"('Claude', 'Déruet')",False,False,True
+215,"('Blaise-Alexandre', 'Desgoffe')",False,False,True
+216,"('Alexandre François', 'Desportes')",False,False,True
+217,"('Unknown', 'Domenichino (Domenico Zampieri)')",False,False,True
+218,"('Francisco', 'Domingo y Marqués')",False,False,True
+219,"('Dosso (Giovanni de Lutero)', 'Dossi')",False,False,True
+220,"('François Hubert', 'Drouais')",False,False,True
+221,"('Rose Adélaïde', 'Ducreux')",False,False,True
+222,"('Robert Charles', 'Dudley')",False,False,True
+223,"('Richard Gainsborough', 'Dupont')",False,False,True
+224,"('Unknown', 'German Painter')",False,False,True
+225,"('Unknown', 'Dutch Painter')",False,False,True
+226,"('Jan', 'Ekels')",False,False,True
+227,"('Unknown', 'European Painter')",False,False,True
+228,"('Unknown', 'Netherlandish Painter')",False,False,True
+229,"('Peter', 'Faes')",False,False,True
+230,"('Mariano', 'Fortuny Marsal')",False,False,True
+231,"('Unknown', 'Francesco di Giorgio Martini')",False,False,True
+232,"('Unknown', 'Italian (Ferrarese) Painter')",False,False,True
+233,"('Jean François de', 'Le Motte')",False,False,True
+234,"('Unknown', 'French (Burgundian?) Painter')",False,False,True
+235,"('Unknown', 'French (Fontainebleau) Painter')",False,False,True
+236,"('Unknown', 'Northern French Painter')",False,False,True
+237,"('Unknown', 'Spanish (Aragonese) Painter')",False,False,True
+238,"('Unknown', 'Gentile da Fabriano (Gentile di Niccolò di Giovanni di Massio)')",False,False,True
+239,"('Unknown', 'Italian Painter')",False,False,True
+240,"('Unknown', 'German (Nuremberg) Painter')",False,False,True
+241,"('Jacques de', 'Gheyn')",False,False,True
+242,"('Domenico (Domenico Bigordi)', 'Ghirlandaio')",False,False,True
+243,"('Davide (David Bigordi)', 'Ghirlandaio')",False,False,True
+244,"('Francescuccio (Francesco di Cecco Ghissi)', 'Ghissi')",False,False,True
+245,"('Michele (Michele Giovanni Bono)', 'Giambono')",False,False,True
+246,"('Unknown', 'Giampietrino (Giovanni Pietro Rizzoli)')",False,False,True
+247,"('Unknown', 'Giotto di Bondone')",False,False,True
+248,"('Unknown', 'Giovanni di Paolo (Giovanni di Paolo di Grazia)')",False,False,True
+249,"('Pierre-Paul-Léon', 'Glaize')",False,False,True
+250,"('Jan (called Mabuse)', 'Gossart')",False,False,True
+251,"('Unknown', 'Goya (Francisco de Goya y Lucientes)')",False,False,True
+252,"('Unknown', 'Goya')",False,False,True
+253,"('Benozzo (Benozzo di Lese di Sandro)', 'Gozzoli')",False,False,True
+254,"('Francesco (Francesco di Andrea di Marco)', 'Granacci')",False,False,True
+255,"('El (Domenikos Theotokopoulos)', 'Greco')",False,False,True
+256,"('Unknown', 'Greco El')",False,False,True
+257,"('Georg Christoph', 'Grooth')",False,False,True
+258,"('Johann Nikolaus', 'Grooth')",False,False,True
+259,"('Unknown', 'Guariento di Arpo')",False,False,True
+260,"('Unknown', 'Guercino (Giovanni Francesco Barbieri)')",False,False,True
+261,"('Hans', 'Holbein')",False,False,True
+262,"('Ferdinand', 'Humbert')",False,False,True
+263,"('Gustave', 'Héquet')",False,False,True
+264,"('Unknown', 'Italian (Florentine) Painter')",False,False,True
+265,"('Unknown', 'Master of the Magdalen')",False,False,True
+266,"('Unknown', 'Italian (Lombard) Painter')",False,False,True
+267,"('Unknown', 'Italian (Marchigian?) Painter')",False,False,True
+268,"('Unknown', 'North Italian Painter')",False,False,True
+269,"('Unknown', 'Italian (Pisan) Painter')",False,False,True
+270,"('Unknown', 'Italian (Sienese) Painter')",False,False,True
+271,"('Unknown', 'Italian (Umbrian) Painter')",False,False,True
+272,"('Unknown', 'Italian (Venetian) Painter')",False,False,True
+273,"('Unknown', 'Jacometto (Jacometto Veneziano)')",False,False,True
+274,"('Unknown', 'Jacopino del Conte')",False,False,True
+275,"('Unknown', 'Daniele da Volterra (Daniele Ricciarelli)')",False,False,True
+276,"('Abraham', 'Janssen van Nuyssen')",False,False,True
+277,"('Paulin', 'Jénot')",False,False,True
+278,"('Jan', 'Joest of Kalkar')",False,False,True
+279,"('Unknown', 'Joos van Cleve')",False,False,True
+280,"('Unknown', 'Juan de Flandes')",False,False,True
+281,"('Unknown', 'Justus of Ghent (Joos van Wassenhove)')",False,False,True
+282,"('Guillaume', 'Koller')",False,False,True
+283,"('Andreas', 'Altomonte')",False,False,True
+284,"('Ignacio de', 'León y Escosura')",False,False,True
+285,"('Pietro (Pietro Falca)', 'Longhi')",False,False,True
+286,"('Unknown', ""Lorenzo di Credi (Lorenzo d'Andrea d'Oderigo)"")",False,False,True
+287,"('Unknown', 'Lorenzo Monaco (Piero di Giovanni)')",False,False,True
+288,"('Unknown', 'Luca di Tommè di Nuto')",False,False,True
+289,"('Federico de', 'Madrazo y de Ochoa')",False,False,True
+290,"('Vladimir Egorovich', 'Makovsky')",False,False,True
+291,"('Giovanni', 'Maldura')",False,False,True
+292,"('Charles-François', 'Marchal')",False,False,True
+293,"('Matthys', 'Maris')",False,False,True
+294,"('Unknown', 'Maso di Banco')",False,False,True
+295,"('Unknown', 'Master of the Liège Disciples at Emmaus')",False,False,True
+296,"('Unknown', 'Master of 1416')",False,False,True
+297,"('Unknown', 'Master of the Acts of Mercy')",False,False,True
+298,"('Unknown', 'North Netherlandish Painter')",False,False,True
+299,"('Juan', 'Dò')",False,False,True
+300,"('Flemish', 'Master of the Béguins (possibly Abraham Willemsens')",False,False,True
+301,"('Unknown', 'Master of the Castello Nativity')",False,False,True
+302,"('Unknown', 'Master of Flora')",False,False,True
+303,"('Unknown', 'Master LC')",False,False,True
+304,"('Unknown', 'Master of the Lanckoronski Annunciation')",False,False,True
+305,"('Unknown', 'Netherlandish (Antwerp) Painter')",False,False,True
+306,"('Unknown', 'Master G.Z.')",False,False,True
+307,"('Unknown', 'Master of the Mansi Magdalen')",False,False,True
+308,"('Unknown', 'Master of the Orcagnesque Misericordia')",False,False,True
+309,"('Unknown', 'Master of Varlungo')",False,False,True
+310,"('Unknown', 'Master called Pseudo-Pier Francesco Fiorentino')",False,False,True
+311,"('Unknown', 'Master of the View of Sainte Gudule')",False,False,True
+312,"('Unknown', 'Marco di Paolo Veneziano')",False,False,True
+313,"('Unknown', 'Master of the Saint Ursula Legend')",False,False,True
+314,"('Unknown', 'Master of the Story of Joseph')",False,False,True
+315,"('Unknown', 'Master of the Virgin among Virgins')",False,False,True
+316,"('Unknown', 'Matteo di Giovanni di Bartolo')",False,False,True
+317,"('Luis', 'Meléndez')",False,False,True
+318,"('Lippo (Filippo di Memmo)', 'Memmi')",False,False,True
+319,"('Georges', 'Michel')",False,False,True
+320,"('Unknown', 'Michele da Verona (Michele di Zenone)')",False,False,True
+321,"('Jean', 'Michelin')",False,False,True
+322,"('Unknown', 'Michelino da Besozzo (Michelino de Mulinari)')",False,False,True
+323,"('Frans van', 'Mieris')",False,False,True
+324,"('Unknown', 'Monogrammist LAM')",False,False,True
+325,"('Bartolomeo (Bartolomeo Cincani)', 'Montagna')",False,False,True
+326,"('Unknown', 'Moretto da Brescia (Alessandro Bonvicino)')",False,False,True
+327,"('Bartolomé Estebán', 'Murillo')",False,False,True
+328,"('Frans', 'Francken')",False,False,True
+329,"('Pieter', 'Neeffs')",False,False,True
+330,"('Unknown', ""Neroccio de' Landi"")",False,False,True
+331,"('Mikhail Vasilievich', 'Nesterov')",False,False,True
+332,"('Unknown', 'Netherlandish (Bruges) Painter')",False,False,True
+333,"('Unknown', 'North Netherlandish (Utrecht?) Painter')",False,False,True
+334,"('Unknown', 'Master of the Female Half-Lengths')",False,False,True
+335,"('Unknown', 'Netherlandish (Antwerp Mannerist) Painter')",False,False,True
+336,"('Unknown', 'Netherlandish Painter (possibly Goswijn van der Weyden')",False,False,True
+337,"('Unknown', 'Master of the Dinteville Allegory')",False,False,True
+338,"('Unknown', 'Niccolò di Buonaccorso')",False,False,True
+339,"('Unknown', 'Niccolò di Pietro')",False,False,True
+340,"(""L' (Giovanni Battista Benvenuti)"", 'Ortolano')",False,False,True
+341,"('Unknown', 'Osma Master')",False,False,True
+342,"('Pieter van', 'Overschee')",False,False,True
+343,"('Guido (Guiduccio Palmerucci)', 'Palmeruccio')",False,False,True
+344,"('Unknown', 'Paolo Veneziano')",False,False,True
+345,"('Jean-Baptiste Joseph', 'Pater')",False,False,True
+346,"('Robert', 'Peake')",False,False,True
+347,"('Léon-Germain', 'Pelouse')",False,False,True
+348,"('Vasilii Grigorievich', 'Perov')",False,False,True
+349,"('Unknown', 'Peruvian (Cuzco) Painter')",False,False,True
+350,"('Unknown', 'Perugino (Pietro di Cristoforo Vannucci)')",False,False,True
+351,"('Unknown', 'Pesellino (Francesco di Stefano)')",False,False,True
+352,"('August Xaver Karl von', 'Pettenkofen')",False,False,True
+353,"('Charles', 'Philips')",False,False,True
+354,"('Unknown', ""Piero di Cosimo (Piero di Lorenzo di Piero d'Antonio)"")",False,False,True
+355,"('Unknown', 'Pietro di Domenico da Montepulciano')",False,False,True
+356,"('Unknown', 'Pietro di Francesco Orioli')",False,False,True
+357,"('Antoine-Émile', 'Plassan')",False,False,True
+358,"('Vasilii Dmitrievich', 'Polenov')",False,False,True
+359,"('Piero del (Piero di Jacopo Benci)', 'Pollaiuolo')",False,False,True
+360,"('Frans', 'Pourbus')",False,False,True
+361,"('Mattia (Il Cavalier Calabrese)', 'Preti')",False,False,True
+362,"('Scipione (Il Gaetano)', 'Pulzone')",False,False,True
+363,"('Pieter Jansz.', 'Quast')",False,False,True
+364,"('Unknown', 'Raffaellino del Garbo')",False,False,True
+365,"('Unknown', 'Raphael')",False,False,True
+366,"('Unknown', 'Rembrandt (Rembrandt van Rijn)')",False,False,True
+367,"('Unknown', 'Rembrandt')",False,False,True
+368,"('Jusepe de (called Lo Spagnoletto)', 'Ribera')",False,False,True
+369,"('Théodule-Augustin', 'Ribot')",False,False,True
+370,"('Martín', 'Rico y Ortega')",False,False,True
+371,"('Unknown', 'Rogier van der Weyden')",False,False,True
+372,"('Franz Wolfgang', 'Rohrich')",False,False,True
+373,"('George', 'Romney')",False,False,True
+374,"('Henri (le Douanier)', 'Rousseau')",False,False,True
+375,"('Unknown', 'Russian Painter')",False,False,True
+376,"('David', 'Ryckaert')",False,False,True
+377,"(""Francesco (Francesco de' Rossi)"", 'Salviati')",False,False,True
+378,"('Alonzo', 'Sánchez Coello')",False,False,True
+379,"(""Andrea del (Andrea d'Agnolo)"", 'Sarto')",False,False,True
+380,"('Unknown', 'Sassetta (Stefano di Giovanni)')",False,False,True
+381,"('Alexei Kondratievich', 'Savrasov')",False,False,True
+382,"('August Friedrich Albrecht', 'Schenck')",False,False,True
+383,"('Andrea (Andrea Meldola)', 'Schiavone')",False,False,True
+384,"('Samuel', 'Scott')",False,False,True
+385,"('Unknown', 'Sebastiano del Piombo (Sebastiano Luciani)')",False,False,True
+386,"('Unknown', 'Sebastiano del Piombo')",False,False,True
+387,"('Unknown', 'Segna di Buonaventura')",False,False,True
+388,"(""Luca (Luca d'Egidio di Luca di Ventura)"", 'Signorelli')",False,False,True
+389,"('Pieter van', 'Slingelandt')",False,False,True
+390,"('Unknown', 'Spanish (Sevillian) Painter')",False,False,True
+391,"('Unknown', 'Spanish (Castilian) Painter')",False,False,True
+392,"('Unknown', 'Spanish (Catalan) Painter')",False,False,True
+393,"('Unknown', 'Spanish (Oña) Painter')",False,False,True
+394,"('Unknown', 'Spanish (Valencian) Painter')",False,False,True
+395,"('Hendrick van', 'Steenwijck')",False,False,True
+396,"('Alfred', 'Stevens')",False,False,True
+397,"('Unknown', 'Swiss Painter')",False,False,True
+398,"('David', 'Teniers')",False,False,True
+399,"('Jacopo (Jacopo Robusti)', 'Tintoretto')",False,False,True
+400,"('Unknown', 'Titian (Tiziano Vecellio)')",False,False,True
+401,"('Unknown', 'Titian')",False,False,True
+402,"('Unknown', 'Tommaso Fiorentino (Tommaso di Stefano Lunetti)')",False,False,True
+403,"('Robert Levrac', 'Tournières')",False,False,True
+404,"('Pierre Charles', 'Trémolières')",False,False,True
+405,"('Cosmè (Cosimo di Domenico di Bonaventura)', 'Tura')",False,False,True
+406,"('Emmanuel', 'Tzanès')",False,False,True
+407,"('Unknown', 'Giovanni di Franco')",False,False,True
+408,"('Carle (Charles André)', 'Vanloo')",False,False,True
+409,"('Lippo (Lippo Vanni di Giovanni)', 'Vanni')",False,False,True
+410,"('Nicolaes van', 'Veerendael')",False,False,True
+411,"('Unknown', 'Velázquez (Diego Rodríguez de Silva y Velázquez)')",False,False,True
+412,"('Unknown', 'Velázquez')",False,False,True
+413,"('Carle (Antoine Charles Horace)', 'Vernet')",False,False,True
+414,"('Paolo (Paolo Caliari)', 'Veronese')",False,False,True
+415,"('José', 'Villegas y Cordero')",False,False,True
+416,"('Marie Denise', 'Villers')",False,False,True
+417,"('Abraham de', 'Vries')",False,False,True
+418,"('Richard', 'Wilson')",False,False,True
+419,"('Joseph (Wright of Derby)', 'Wright')",False,False,True
+420,"('Francesco (Francesco di Bosio)', 'Zaganelli')",False,False,True
+421,"('Unknown', 'Sodoma (Giovanni Antonio Bazzi)')",False,False,True
+422,"('Goffredo', 'Wals')",False,False,True
+423,"('Unknown', 'Santi di Tito')",False,False,True
+424,"('Unknown', 'Scarsellino (Ippolito Scarsella)')",False,False,True
+425,"('Unknown', 'Master of the Berswordt Altar')",False,False,True
+426,"('Joseph', 'Bidauld')",False,False,True
+427,"('Alexandre Evariste', 'Fragonard')",False,False,True
+428,"('André', 'Giroux')",False,False,True
+429,"('Antoine-Xavier-Gabriel de Gazeau', 'La Bouëre')",False,False,True
+430,"('Jean-François', 'Montessuy')",False,False,True
+431,"('Léon', 'Pallière')",False,False,True
+432,"('François Édouard', 'Picot')",False,False,True
+433,"('Paul-Narcisse', 'Salières')",False,False,True
+434,"('Pierre Antoine Augustin', 'Vafflard')",False,False,True
+435,"('Pierre Henri de', 'Valenciennes')",False,False,True
+436,"('Eugène-Joseph', 'Verboeckhoven')",False,False,True
+437,"('Unknown', 'Duccio di Buoninsegna')",False,False,True
+438,"('Unknown', 'South German (Bavarian?) Painter')",False,False,True
+439,"('Bruno', 'Marzi')",False,False,True
+440,"('Umberto', 'Giunti')",False,False,True
+441,"('Julius von', 'Leypold')",False,False,True
+442,"('August', 'Heinrich')",False,False,True
+443,"('Unknown', 'Cels Jean-Michel')",False,False,True
+444,"('Gilles-François-Joseph', 'Closson')",False,False,True
+445,"('Jean Antoine', 'Constantin')",False,False,True
+446,"('Unknown', 'Desgoffe Alexandre')",False,False,True
+447,"('Unknown', 'Fleury Léon')",False,False,True
+448,"('Thomas', 'Jones')",False,False,True
+449,"('Unknown', 'Leprince Robert-Léopold')",False,False,True
+450,"('Unknown', 'Lucas August')",False,False,True
+451,"('Unknown', 'Reinhold Heinrich')",False,False,True
+452,"('Unknown', 'Ricois François-Edme')",False,False,True
+453,"('Unknown', 'Söderberg Gustaf')",False,False,True
+454,"('Wolfgang Adam', 'Töpffer')",False,False,True
+455,"('Lancelot Théodore', 'Turpin de Crissé')",False,False,True
+456,"('Joséphine', 'Sarazin de Belmont')",False,False,True
+457,"('ca. 1825', 'French Painter (Antoine-Félix Boisselier?)')",False,False,True
+458,"('Giovanni Battista', 'Camuccini')",False,False,True
+459,"('Unknown', 'Valentin de Boulogne')",False,False,True
+460,"('Alexandre', 'Dubuisson')",False,False,True
+461,"('Ernest-Joachim', 'Dumax')",False,False,True
+462,"('Christian Friedrich', 'Gille')",False,False,True
+463,"('Unknown', 'Marstrand Wilhelm')",False,False,True
+464,"('Antoine Pierre', 'Mongin')",False,False,True
+465,"('Carl', 'Morgenstern')",False,False,True
+466,"('Friedrich', 'Nerly')",False,False,True
+467,"('Gustav Wilhelm', 'Palm')",False,False,True
+468,"('George Augustus', 'Wallis')",False,False,True
+469,"('Unknown', 'Faber Johann Joachim')",False,False,True
+470,"('Jacopo (Jacopo da Ponte)', 'Bassano')",False,False,True
+471,"('Anton', 'Dieffenbach')",False,False,True
+472,"('Filippo', 'Tarchiani')",False,False,True
+473,"('Unknown', 'Ugolino da Siena')",False,False,True
+474,"('Unknown', 'Perino del Vaga (Pietro Buonaccorsi)')",False,False,True
+475,"('Peter (Pieter de Witte', 'Candid')",False,False,True
+476,"('Jean', 'Lecomte du Nouÿ')",False,False,True
+477,"('Philippe', 'Pavy')",False,False,True
+478,"('Ottavio (Il Padovano)', 'Leoni')",False,False,True
+479,"('Augustín', 'Esteve y Marques')",False,False,True
+480,"('Ali', 'Banisadr')",False,True,False
+481,"(""Isma'il"", 'Gulgee')",False,False,True
+482,"('Samira', 'Abbassy')",False,False,True
+483,"('Reza', 'Derakhshani')",False,True,False
+484,"('Fereydoun', 'Ave')",False,False,True
+485,"('Seyed Mohammad', 'Ehsaey')",False,False,True
+486,"('Unknown', 'Bartolo di Fredi')",False,False,True
+487,"('Workshop of', 'Niccolò di Buonaccorso')",False,False,True
+488,"('Unknown', 'Goodhart Ducciesque Master')",False,False,True
+489,"('Giovanni Antonio', 'da Pesaro')",False,False,True
+490,"('Unknown', 'Osservanza Master')",False,False,True
+491,"('Unknown', 'Sano di Pietro (Ansano di Pietro di Mencio)')",False,False,True
+492,"('Icilio Federico', 'Ioni')",False,False,True
+493,"('Unknown', 'Benvenuto di Giovanni')",False,False,True
+494,"('Maestro', 'Daddesco')",False,False,True
+495,"('Workshop of', 'Botticelli')",False,False,True
+496,"('Unknown', 'Spinello Aretino (Spinello di Luca Spinelli)')",False,False,True
+497,"('Andrea di (Orcagna)', 'Cione')",False,False,True
+498,"('Unknown', 'Jacopo di Cione')",False,False,True
+499,"('Unknown', 'Bicci di Lorenzo')",False,False,True
+500,"('Unknown', 'Neri di Bicci')",False,False,True
+501,"('Unknown', 'Master of Marradi')",False,False,True
+502,"('Unknown', 'Alesso di Benozzo')",False,False,True
+503,"('Unknown', 'Lorenzo Veneziano')",False,False,True
+504,"('Unknown', 'Master of Forlì')",False,False,True
+505,"('Unknown', 'di Maestro Antonio')",False,False,True
+506,"('Unknown', 'Maestro delle Storie del Pane')",False,False,True
+507,"('Lombard (probably Pavia)', 'Italian')",False,False,True
+508,"('Unknown', 'Master of the Dominican Effigies')",False,False,True
+509,"('Unknown', 'Antonio del Massaro da Viterbo')",False,False,True
+510,"('Neapolitan Follower of Giotto', 'Italian')",False,False,True
+511,"('Unknown', 'Master of Saint Francis')",False,False,True
+512,"('Unknown', 'Puccio di Simone')",False,False,True
+513,"('Unknown', 'Niccolò Alunno (Niccolò di Liberatore)')",False,False,True
+514,"('of uncertain date', 'Italian Painter')",False,False,True
+515,"('Unknown', 'Master of Frankfurt')",False,False,True
+516,"('second half of 16th century', 'Netherlandish Painter')",False,False,True
+517,"('Unknown', 'Netherlandis')",False,False,True
+518,"('17th century', 'Dutch (Utrecht Caravaggist) Painter')",False,False,True
+519,"('Unknown', 'Netherlandish or French')",False,False,True
+520,"('Jean (called Master of Moulins)', 'Hey')",False,False,True
+521,"('Unknown', 'Master of Saint Giles')",False,False,True
+522,"('Attributed to', 'Corneille de Lyon')",False,False,True
+523,"('Unknown', 'Master of the Munich Bavarian Panels')",False,False,True
+524,"('Unknown', 'German')",False,False,True
+525,"('Unknown', 'Master H.A. or A.H.')",False,False,True
+526,"('about 1640–50', 'Dutch (Amsterdam) Painter')",False,False,True
+527,"('Jean Jacques', 'Hauer')",False,False,True
+528,"('Paul-Désiré', 'Trouillebert')",False,False,True
+529,"('Unknown', 'Netherlandish')",False,False,True
+530,"('Unknown', 'Ugolino da Siena (Ugolino di Nerio)')",False,False,True
+531,"('Unknown', 'Barna da Siena')",False,False,True
+532,"('Unknown', ""d'Espagnat Georges"")",False,False,True
+533,"('first quarter of 14th century', 'Italian [Tuscan] Painter')",False,True,False
+534,"('Unknown', 'Balthus (Balthasar Klossowski)')",False,False,True
+535,"('Unknown', ""Pietro di Giovanni d'Ambrogio"")",False,False,True
+536,"('Roger', 'Bezombes')",False,False,True
+537,"('Dietz', 'Edzard')",False,False,True
+538,"('Edouard', 'Pignon')",False,False,True
+539,"('Unknown', 'Ruiz Cristóbal Attributed to')",False,False,True
+540,"('Carlo', 'Canevari')",False,False,True
+541,"('Armand', 'Sinko')",False,False,True
+542,"('Constantin Alexandrovitch', 'Westchiloff')",False,False,True
+543,"('Raymond', 'Legueult')",False,False,True
+544,"('Unknown', 'Kulkarni Dattatray Gundo')",False,False,True
+545,"('Unknown', 'Ambille Paul')",False,False,True
+546,"('Unknown', 'French or American')",False,False,True
+547,"('Unknown', 'Terechkovitch')",False,False,True
+548,"('Unknown', 'Bauchant André')",False,False,True
+549,"('Lucy', 'Valore')",False,False,True
+550,"('Emil', 'Grau-Sala')",False,False,True
+551,"('Unknown', 'American Painter')",False,False,True
+552,"('André', 'Brasilier')",False,False,True
+553,"('Unknown', 'Rohner George')",False,False,True
+554,"('Unknown', 'Vertès Marcel')",False,False,True
+555,"('Domingo', 'Ram')",False,True,False
+556,"('Unknown', 'Master of Belmonte')",False,False,True
+557,"('Unknown', 'Master of Saint Augustine')",False,False,True
+558,"('Unknown', 'Master of the Codex of Saint George')",False,False,True
+559,"('Unknown', 'Niccolò di Tommaso')",False,False,True
+560,"('Paul', 'Dougherty')",False,True,False
+561,"('Jonas', 'Lie')",False,False,True
+562,"('Edward', 'Avedisian')",False,True,False
+563,"('Ward', 'Lockwood')",False,False,True
+564,"('Vasili', 'Shoukhaiev')",False,False,True
+565,"('Thomas', 'Sills')",False,True,False
+566,"('James Whitn', 'Fosburgh')",False,False,True
+567,"('Raymond', 'Parker')",False,False,True
+568,"('Friedel', 'Dzubas')",False,True,False
+569,"('Gandy', 'Brodie')",False,True,False
+570,"('Sally Hazel', 'Drummond')",False,False,True
+571,"('Dan', 'Christensen')",False,True,False
+572,"('Ludwig', 'Sander')",False,False,True
+573,"('Jack', 'Whitten')",False,True,False
+574,"('Jules', 'Olitski')",False,True,False
+575,"('James', 'Brooks')",False,False,True
+576,"('Milton', 'Avery')",False,True,False
+577,"('Maxwell', 'Hendler')",False,True,False
+578,"('Charles', 'Picco')",False,False,True
+579,"('Walter Darby', 'Bannard')",False,True,False
+580,"('Morris', 'Louis')",False,True,False
+581,"('Arthur B', 'Carles')",False,False,True
+582,"('Alice Trumbull', 'Mason')",False,True,False
+583,"('John', 'Mclaughlin')",False,False,True
+584,"('Bob', 'Thompson')",False,False,True
+585,"('Jean', 'Dewasne')",False,False,True
+586,"('David', 'Budd')",False,False,True
+587,"('John', 'Day')",False,False,True
+588,"('Larry', 'Zox')",False,True,False
+589,"('Robert', 'Kulicke')",False,True,False
+590,"('Alex', 'Katz')",False,True,False
+591,"('Gertrude Glas', 'Greene')",False,False,True
+592,"('William', 'Nicholson')",False,False,True
+593,"('I J', 'Belmont')",False,False,True
+594,"('Wolf', 'Kahn')",False,True,False
+595,"('Thom', 'Lanigan-Schmidt')",False,False,True
+596,"('Meraud', 'Guevara')",False,False,True
+597,"('Frederick J', 'Brown')",False,False,True
+598,"('Charles', 'Seliger')",False,True,False
+599,"('Lee', 'Gatch')",False,True,False
+600,"('Raphael', 'Soyer')",False,True,False
+601,"('Francois', 'Rouan')",False,False,True
+602,"('Jean Isy de', 'Botton')",False,False,True
+603,"('Maurice', 'Golubov')",False,False,True
+604,"('Gwenn', 'Thomas')",False,False,True
+605,"('Warren', 'Brandt')",False,False,True
+606,"('Joan', 'Witek')",False,False,True
+607,"('Frank', 'Bowling')",False,True,False
+608,"('Malcolm', 'Bailey')",False,True,False
+609,"('John Clem', 'Clarke')",False,False,True
+610,"('Ed', 'Baynard')",False,False,True
+611,"('Michael', 'Andrews')",False,False,True
+612,"('Joan', 'Snyder')",False,True,False
+613,"('Doug', 'Ohlson')",False,True,False
+614,"('Dimitrie', 'Berea')",False,False,True
+615,"('Mervin', 'Honig')",False,False,True
+616,"('Luise', 'Kaish')",False,False,True
+617,"('Stuart', 'Davis')",False,False,True
+618,"('Margo', 'Hoff')",False,True,False
+619,"('Edda', 'Renouf')",False,True,False
+620,"('Morris', 'Shulman')",False,False,True
+621,"('Nicolas De', 'Stael')",False,False,True
+622,"('Robert', 'Swain')",False,False,True
+623,"('Sanford', 'Wurmfeld')",False,False,True
+624,"('Karl', 'Schrag')",False,False,True
+625,"('Jean', 'Helion')",False,True,False
+626,"('C K', 'Chatterton')",False,False,True
+627,"('Rex', 'Lau')",False,False,True
+628,"('Unknown', 'Man Ray')",False,False,True
+629,"('Mark', 'Tansey')",False,True,False
+630,"('Horacio', 'Torres')",False,False,True
+631,"('Stephen', 'Edlich')",False,False,True
+632,"('Michael', 'David')",False,False,True
+633,"('Mark', 'Baum')",False,True,False
+634,"('Randy', 'Dudley')",False,False,True
+635,"('John', 'Moore')",False,False,True
+636,"('John', 'Walker')",False,False,True
+637,"('Marjorie', 'Portnow')",False,False,True
+638,"('Richard', 'Bosman')",False,True,False
+639,"('Jacob El', 'Hanani')",False,False,True
+640,"('Paul', 'Trebilcock')",False,False,True
+641,"('Rafael', 'Ferrer')",False,False,True
+642,"('Mark', 'Innerst')",False,True,False
+643,"('Robert', 'Natkin')",False,True,False
+644,"('Gabor F.', 'Peterdi')",False,False,True
+645,"('Tom', 'Lieber')",False,False,True
+646,"('David', 'Smith')",False,False,True
+647,"('David', 'Park')",False,False,True
+648,"('Lizbeth', 'Mitty')",False,False,True
+649,"('Lynn', 'Bostick')",False,False,True
+650,"('James', 'Havard')",False,True,False
+651,"('Lester', 'Johnson')",False,False,True
+652,"('Chuck', 'Forsman')",False,False,True
+653,"('Jonathan', 'Weinberg')",False,True,False
+654,"('Warren', 'Rohrer')",False,False,True
+655,"('Glenn', 'Coleman')",False,True,False
+656,"('Ralph', 'Mayer')",False,False,True
+657,"('Roger', 'Brown')",False,False,True
+658,"('Hugh', ""O'Donnell"")",False,False,True
+659,"('James', 'Mcgarrell')",False,False,True
+660,"('Tod', 'Wizon')",False,False,True
+661,"('David', 'Bates')",False,False,True
+662,"('Duncan', 'Hannah')",False,False,True
+663,"('Jacques', 'Hartmann')",False,False,True
+664,"('Red', 'Grooms')",False,True,False
+665,"('Dennis', 'Smith')",False,False,True
+666,"('Leonard', 'Koscianski')",False,False,True
+667,"('James G', 'Davis')",False,False,True
+668,"('Walter', 'Hatke')",False,False,True
+669,"('Alan', 'Shields')",False,False,True
+670,"('Mark', 'Wethli')",False,False,True
+671,"('Emil', 'Bisttram')",False,True,False
+672,"('Ed', 'Garman')",False,False,True
+673,"('Nicholas', 'Africano')",False,False,True
+674,"('Saul', 'Villa')",False,False,True
+675,"('Hunt', 'Slonem')",False,True,False
+676,"('George', 'Nick')",False,False,True
+677,"('Gregory', 'Amenoff')",False,True,False
+678,"('Rackstraw', 'Downes')",False,True,False
+679,"('Joseph', 'Santore')",False,False,True
+680,"('John', 'Mcnamara')",False,False,True
+681,"('Joseph', 'Floch')",False,False,True
+682,"('Peter', 'Solow')",False,False,True
+683,"('Thomas', 'Nozkowski')",False,False,True
+684,"('George', 'Peck')",False,False,True
+685,"('Azaceta Luis', 'Cruz')",False,False,True
+686,"('Sidney', 'Goodman')",False,True,False
+687,"('George L K', 'Morris')",False,False,True
+688,"('Unknown', 'Arakawa')",False,False,True
+689,"('Jules', 'Kirschenbaum')",False,False,True
+690,"('Lee', 'Jaffe')",False,True,False
+691,"('Stone', 'Roberts')",False,False,True
+692,"('George', 'Mcneil')",False,False,True
+693,"('John', 'Hull')",False,False,True
+694,"('Peter', 'Booth')",False,True,False
+695,"('Glenn', 'Goldberg')",False,False,True
+696,"('Ken', 'Kiff')",False,True,False
+697,"('Peter', 'Fletcher')",False,False,True
+698,"('Ron', 'Janowich')",False,False,True
+699,"('Mark', 'Luyten')",False,False,True
+700,"('Jim', 'Waid')",False,False,True
+701,"('Anne', 'Ryan')",False,True,False
+702,"('Tom', 'Fellner')",False,False,True
+703,"('Thomas', 'Schindler')",False,False,True
+704,"('Louise', 'Fishman')",False,True,False
+705,"('Giorgio', 'Cavallon')",False,True,False
+706,"('Catherine', 'Murphy')",False,False,True
+707,"('Graham', 'Nickson')",False,False,True
+708,"('Robert', 'Greene')",False,False,True
+709,"('Avner', 'Moriah')",False,False,True
+710,"('Mary', 'Mabbutt')",False,False,True
+711,"('Jonathan', 'Waller')",False,False,True
+712,"('John', 'Beerman')",False,False,True
+713,"('Roberto', 'Juarez')",False,False,True
+714,"('William', 'Robinson')",False,False,True
+715,"('Steve', 'Hawley')",False,False,True
+716,"('David', 'Reed')",False,False,True
+717,"('Arturo', 'Rodriguez')",False,False,True
+718,"('Unknown', 'Ben-Zion')",False,False,True
+719,"('Rudolf', 'Ray')",False,False,True
+720,"('Honore', 'Sharrer')",False,True,False
+721,"('Jerome', 'Witkin')",False,True,False
+722,"('Peter', 'Blake')",False,False,True
+723,"('Thomas S', 'Buechner')",False,False,True
+724,"('Paul', 'Manes')",False,False,True
+725,"('Eda Mirsky', 'Mann')",False,False,True
+726,"('Katherine', 'Bowling')",False,True,False
+727,"('Neil', 'Jenney')",False,True,False
+728,"('Jim', 'Sullivan')",False,False,True
+729,"('Peter', 'Waite')",False,False,True
+730,"('Robert', 'Mason')",False,False,True
+731,"('Lydia', 'Dona')",False,False,True
+732,"('Yuri', 'Kuper')",False,False,True
+733,"('Donald', 'Shambroom')",False,False,True
+734,"('Viacheslav', 'Kalinin')",False,False,True
+735,"('Troy', 'Brauntuch')",False,True,False
+736,"('Elizabeth', 'Murray')",False,False,True
+737,"('George', 'Constant')",False,False,True
+738,"('Dorothy', 'Eisner')",False,False,True
+739,"('Andrew', 'Spence')",False,True,False
+740,"('Robert', 'Bordo')",False,False,True
+741,"('Randall', 'Deihl')",False,False,True
+742,"('Paul', 'Benney')",False,True,False
+743,"('Timothy', 'Lowly')",False,False,True
+744,"('Carole', 'Robb')",False,False,True
+745,"('Altoon', 'Sultan')",False,True,False
+746,"('Richard', 'Clarke')",False,False,True
+747,"('Juan', 'Sanchez')",False,False,True
+748,"('Ida', 'Applebroog')",False,True,False
+749,"('Cynthia Hazen', 'Polsky')",False,False,True
+750,"('Katherine', 'Porter')",False,True,False
+751,"('Helen Miranda', 'Wilson')",False,False,True
+752,"('Sally', 'Heywood')",False,False,True
+753,"('Aaron', 'Fink')",False,False,True
+754,"('Benny', 'Andrews')",False,True,False
+755,"('Leon', 'Kossoff')",False,True,False
+756,"('Salle Werner', 'Vaughn')",False,False,True
+757,"('John', 'Koch')",False,True,False
+758,"('Ruben', 'Ortiz')",False,False,True
+759,"('Veites Jose', 'Gonzalez')",False,False,True
+760,"('Sally Michel', 'Avery')",False,False,True
+761,"('Alejandro', 'Arango')",False,False,True
+762,"('Dulce Maria', 'Nunez')",False,False,True
+763,"('Frederick', 'Serger')",False,False,True
+764,"('Susana', 'Sierra')",False,False,True
+765,"('Jose Luis', 'Romo')",False,False,True
+766,"('Del Campo Mar', 'Martin')",False,False,True
+767,"('Lenero Miguel', 'Castro')",False,False,True
+768,"('Joe', 'Andoe')",False,True,False
+769,"('Allan', ""D'Arcangelo"")",False,True,False
+770,"('Vladimir', 'Kompanek')",False,True,False
+771,"('Robert', 'Cumming')",False,False,True
+772,"('Unknown', 'Afro')",False,False,True
+773,"('Paul', 'Burlin')",False,True,False
+774,"('Adan', 'Hernandez')",False,False,True
+775,"('Merrill', 'Mahaffey')",False,False,True
+776,"('Idelle', 'Weber')",False,True,False
+777,"('Amy', 'Weiskopf')",False,False,True
+778,"('Houghton Cranf', 'Smith')",False,False,True
+779,"('Federico', 'Vegas')",False,False,True
+780,"('Harry', 'Kramer')",False,False,True
+781,"('Eugenie', 'Baizerman')",False,False,True
+782,"('Jerome', 'Carlin')",False,False,True
+783,"('Bill', 'Jacklin')",False,False,True
+784,"('Da Silva Mari', 'Vieira')",False,False,True
+785,"('Charmion Von', 'Wiegand')",False,True,False
+786,"('Burgoyne', 'Diller')",False,True,False
+787,"('Unknown', 'Komar & Melamid')",False,False,True
+788,"('Norman', 'Lewis')",False,False,True
+789,"('Margery', 'Edwards')",False,True,False
+790,"('John R', 'Fudge')",False,False,True
+791,"('Unknown', 'Boyd & Evans')",False,False,True
+792,"('James D', 'Butler')",False,False,True
+793,"('Rosalie', 'Gascoigne')",False,True,False
+794,"('Euan', 'Macleod')",False,True,False
+795,"('Imants', 'Tillers')",False,True,False
+796,"('O Louis', 'Guglielmi')",False,False,True
+797,"('Don', 'Nice')",False,False,True
+798,"('Douglas', 'Safranek')",False,False,True
+799,"('Julian', 'Lethbridge')",False,True,False
+800,"('Caio', 'Fonseca')",False,True,False
+801,"('William', 'Anthony')",False,False,True
+802,"('Paul', 'Hawdon')",False,False,True
+803,"('Jorge', 'Eduardo')",False,False,True
+804,"('Mariano', 'Sapia')",False,False,True
+805,"('Y Z', 'Kami')",False,False,True
+806,"('Judith', 'Cotton')",False,False,True
+807,"('Kay', 'Walkingstick')",False,False,True
+808,"('Richmond', 'Burton')",False,False,True
+809,"('Lois Bartlett', 'Tracy')",False,False,True
+810,"('Leland', 'Bell')",False,True,False
+811,"('Leonid', 'Lamm')",False,False,True
+812,"('Miguel', 'Padura')",False,False,True
+813,"('Georges', 'Noel')",False,False,True
+814,"('Daniel', 'Rolph')",False,False,True
+815,"('Edwina', 'Leapman')",False,False,True
+816,"('Nicol', 'Granger-Taylor')",False,False,True
+817,"('Raymond', 'Saunders')",False,False,True
+818,"('Elaine', 'De Kooning')",False,False,True
+819,"('Stephen', 'Greene')",False,False,True
+820,"('Luigi', 'Lucioni')",False,True,False
+821,"('Robert', 'Harms')",False,False,True
+822,"('Niles', 'Spencer')",False,False,True
+823,"('Wilbur', 'Niewald')",False,False,True
+824,"('Arturo', 'Elizondo')",False,False,True
+825,"('Won-Gi', 'Sul')",False,False,True
+826,"('Keun-Joong', 'Kim')",False,False,True
+827,"('Dong-Koo', 'Yun')",False,False,True
+828,"('Tchah-Sup', 'Kim')",False,False,True
+829,"('Unknown', 'Gory')",False,False,True
+830,"('Mario', 'Bencomo')",False,True,False
+831,"('Lawrence H', 'Lebduska')",False,False,True
+832,"('Earl', 'Cunningham')",False,True,False
+833,"('Glen', 'Hansen')",False,True,False
+834,"('Odd', 'Nerdrum')",False,True,False
+835,"('Henry', 'Pearson')",False,False,True
+836,"('Patrick', 'Procktor')",False,True,False
+837,"('Miklos', 'Suba')",False,True,False
+838,"('Beatriz', 'Milhazes')",False,True,False
+839,"('Charles', 'Bittinger')",False,True,False
+840,"('Aldro T.', 'Hibbard')",False,False,True
+841,"('Felicie Waldo', 'Howell')",False,False,True
+842,"('A Sheldon', 'Pennoyer')",False,False,True
+843,"('Ogden M.', 'Pleissner')",False,False,True
+844,"('Reginald', 'Marsh')",False,False,True
+845,"('Henry Lee', 'Mcfee')",False,False,True
+846,"('Thomas Hart', 'Benton')",False,False,True
+847,"('Frederic M', 'Grant')",False,False,True
+848,"('Edwin', 'Dickinson')",False,True,False
+849,"('Richard', 'Blow')",False,True,False
+850,"('Hobson', 'Pittman')",False,False,True
+851,"('Frank', 'Mechau')",False,True,False
+852,"('Mary Hoover', 'Aiken')",False,False,True
+853,"('Maud', 'Morgan')",False,True,False
+854,"('Edith C.', 'Blum')",False,False,True
+855,"('Irene De', 'Bohus')",False,False,True
+856,"('Paul Valentine', 'Lantz')",False,False,True
+857,"('Junius', 'Allen')",False,False,True
+858,"('Darrel', 'Austin')",False,False,True
+859,"('Harry', 'Shoulberg')",False,True,False
+860,"('William Scott', 'Pyle')",False,False,True
+861,"('Lyonel Charles', 'Feininger')",False,False,True
+862,"('Raymond', 'Breinin')",False,False,True
+863,"('Charles Houghton', 'Howard')",False,False,True
+864,"('Frank', 'Kleinholz')",False,False,True
+865,"('Kurt Ferdinan', 'Roesch')",False,False,True
+866,"('Bradley Walker', 'Tomlin')",False,True,False
+867,"('Josef', 'Presser')",False,False,True
+868,"('Remo', 'Farruggio')",False,False,True
+869,"('Reginald', 'Wilson')",False,False,True
+870,"('Joseph De', 'Martini')",False,False,True
+871,"('Ben', 'Benn')",False,False,True
+872,"('Lee', 'Jackson')",False,False,True
+873,"('Unknown', 'Leonid')",False,False,True
+874,"('Nahum', 'Tschacbasov')",False,False,True
+875,"('Franklin', 'Watkins')",False,False,True
+876,"('John', 'Weeks')",False,False,True
+877,"('Ronald', 'Tizard')",False,False,True
+878,"('Michel Alexa', 'Werboff')",False,False,True
+879,"('Margit', 'Varga')",False,False,True
+880,"('Dahlov', 'Ipcar')",False,True,False
+881,"('Everett', 'Spruce')",False,False,True
+882,"('Walter', 'Stuempfig')",False,True,False
+883,"('Sta', 'Macdonald-Wright')",False,False,True
+884,"('Mitchell', 'Siporin')",False,True,False
+885,"('Karl', 'Zerbe')",False,True,False
+886,"('Arthur', 'Osver')",False,False,True
+887,"('Andrew Micha', 'Dasburg')",False,False,True
+888,"('Lamar', 'Dodd')",False,True,False
+889,"('Carlyle', 'Brown')",False,True,False
+890,"('Peppino', 'Mangravite')",False,False,True
+891,"('Attilio', 'Salemme')",False,False,True
+892,"('Robert', 'Philipp')",False,True,False
+893,"('William Gros', 'Congdon')",False,False,True
+894,"('Gonzalo', 'Ariza')",False,False,True
+895,"('Joseph', 'Glasco')",False,True,False
+896,"('Prince Of Sweden', 'Eugen')",False,False,True
+897,"('Charles Kenne', 'Sibley')",False,False,True
+898,"('Charles', 'Shaw')",False,False,True
+899,"('Victor', 'Candell')",False,False,True
+900,"('Eliot', 'Clark')",False,False,True
+901,"('John', 'Hultberg')",False,True,False
+902,"('John', 'Heliker')",False,False,True
+903,"('Lodewijk Ka', 'Bruckman')",False,False,True
+904,"('Carroll', 'Cloar')",False,True,False
+905,"('Nancy Ellen', 'Craig')",False,False,True
+906,"('Carl A', 'Morris')",False,False,True
+907,"('Aaron A', 'Shikler')",False,False,True
+908,"('John', 'Carroll')",False,False,True
+909,"('Millie Bruhl', 'Fredrick')",False,False,True
+910,"('Patricia', 'Cunningham')",False,False,True
+911,"('Sidney', 'Laufman')",False,False,True
+912,"('Jerome', 'Blum')",False,False,True
+913,"('André-Dunoyer de', 'Segonzac')",False,False,True
+914,"('Pierre', 'Laprade')",False,False,True
+915,"('John', 'Graham')",False,False,True
+916,"('Alan', 'Reynolds')",False,False,True
+917,"('Robert', 'Goodnough')",False,True,False
+918,"('Rollin', 'Crampton')",False,False,True
+919,"('Vanessa Stephen', 'Bell')",False,False,True
+920,"('Earl', 'Kerkam')",False,True,False
+921,"('Alfred', 'Leslie')",False,True,False
+922,"('Ian', 'Phillips')",False,True,False
+923,"('Edgar', 'Levy')",False,False,True
+924,"('Alice Dalton', 'Brown')",False,True,False
+925,"('Wilhelm', 'Moser')",False,False,True
+926,"('Matthew', 'Weinstein')",False,True,False
+927,"('Robert', 'Ryman')",False,True,False
+928,"('Scott', 'Fraser')",False,False,True
+929,"('Tremain', 'Smith')",False,False,True
+930,"('Martin', 'Kline')",False,False,True
+931,"('Mari-Louise', 'Van Esselstyn')",False,False,True
+932,"('John', 'Gibson')",False,False,True
+933,"('Ralph', 'Fasanella')",False,True,False
+934,"('Anne', 'Peretz')",False,False,True
+935,"('Vincent D.', 'Smith')",False,True,False
+936,"('Ellen', 'Phelan')",False,True,False
+937,"('Jim', 'Torok')",False,False,True
+938,"('Karel', 'Nel')",False,False,True
+939,"('William', 'Scott')",False,False,True
+940,"('Tom', 'Levine')",False,False,True
+941,"('Sukhrob', 'Kurbanov')",False,False,True
+942,"('Arthur', 'Segal')",False,False,True
+943,"('Pierre', 'Matisse')",False,True,False
+944,"('Jaune Quick-to-See', 'Smith')",False,True,False
+945,"('Gazbia', 'Sirry')",False,True,False
+946,"('Betty', 'Woodman')",False,True,False
+947,"('Joseph Mellor', 'Hanson')",False,False,True
+948,"('Peter', 'Sacks')",False,True,False
+949,"('Algernon', 'Newton RA')",False,False,True
+950,"('Amy', 'Bennett')",False,False,True
+951,"('Al', 'Loving')",False,False,True
+952,"('Sylvia Plimack', 'Mangold')",False,True,False
+953,"('Rashid', 'Rana')",False,True,False
+954,"('Chantal', 'Joffe')",False,True,False
+955,"('Nate', 'Lowman')",False,True,False
+956,"('Callum', 'Innes')",False,True,False
+957,"('Unknown', 'Mattelson Marvin')",False,False,True
+958,"('Nasrollah', 'Afjei')",False,False,True
+959,"('Oscar', 'Howe')",False,True,False
+960,"('Morris', 'Hirshfield')",False,False,True
+961,"('Peter', 'Hristoff')",False,False,True
+962,"('Robert', 'Courtright')",False,False,True
+963,"('Roberto', 'Parodi')",False,False,True
+964,"('Bruce', 'Boice')",False,False,True
+965,"('Elmar', 'Rojas')",False,True,False
+966,"('Ron', 'Gorchov')",False,True,False
+967,"('George', 'Negroponte')",False,False,True
+968,"('Unknown', 'Jeff')",False,False,True
+969,"('Peter', 'Bradley')",False,False,True
+970,"('Chema', 'Cobo')",False,False,True
+971,"('May', 'Stevens')",False,True,False
+972,"('Terry', 'Allen')",False,False,True
+973,"('Luis', 'Lizardo')",False,False,True
+974,"('Peter', 'Schuyff')",False,True,False
+975,"('Donald James', 'Wynn')",False,False,True
+976,"('Rabell Arnaldo', 'Roche')",False,False,True
+977,"('John', 'Alexander')",False,False,True
+978,"('Melissa', 'Meyer')",False,True,False
+979,"('Oliver', 'Jackson')",False,True,False
+980,"('John', 'Tweddle')",False,False,True
+981,"('Tishan', 'Hsu')",False,False,True
+982,"('Paul', 'Wonner')",False,True,False
+983,"('Richard', 'Chiriani')",False,False,True
+984,"('Frances', 'Barth')",False,False,True
+985,"('Doug', 'Anderson')",False,False,True
+986,"('Chuck', 'Connelly')",False,True,False
+987,"('Dana', 'Van Horn')",False,False,True
+988,"('A Robert', 'Birmelin')",False,False,True
+989,"('Unknown', 'Broto')",False,False,True
+990,"('Richard', 'Smith')",False,False,True
+991,"('Javier', 'Arevalo')",False,True,False
+992,"('Theophilus', 'Brown')",False,True,False
+993,"('Willard', 'Dixon')",False,False,True
+994,"('Paul', 'Sarkisian')",False,False,True
+995,"('Nicholas', 'Jolly')",False,False,True
+996,"('Nancy', 'Haynes')",False,True,False
+997,"('Vladimir', 'Ovchinnikov')",False,False,True
+998,"('Noah', 'Jemison')",False,False,True
+999,"('Marcia', 'Grostein')",False,True,False
+1000,"('Brad', 'Davis')",False,False,True
+1001,"('Randall', 'Schmit')",False,True,False
+1002,"('Susan', 'Laufer')",False,False,True
+1003,"('Unknown', 'Peltenburg-Brechneff')",False,False,True
+1004,"('In Kie', 'Whang')",False,False,True
+1005,"('Tomma', 'Abts')",False,True,False
+1006,"('Unknown', 'Usui Bumpei')",False,False,True
+1007,"('Haungooah', 'Silver Horn')",False,False,True
+1008,"('Faramarz', 'Pilaram')",False,False,True
+1009,"('Gerardus I', 'Duyckinck')",False,False,True
+1010,"('Francis Blackbear', 'Bosin')",False,False,True
+1011,"('Kamrooz', 'Aram')",False,True,False
+1012,"('Golnaz', 'Fathi')",False,True,False
+1013,"('Giovanni Benedetto (Il Grechetto)', 'Castiglione')",False,False,True
+1014,"('Joe', 'Light')",False,True,False
+1015,"('Mary T.', 'Smith')",False,False,True
+1016,"('Gunybi', 'Ganambarr')",False,False,True
+1017,"('Shiva', 'Ahmadi')",False,True,False
+1018,"('Sophie', 'von Hellermann')",False,False,True
+1019,"('Marion', 'Sampler')",False,False,True
+1020,"('Kojo', 'Griffin')",False,False,True
+1021,"('Unknown', 'Qiu Anxiong')",False,False,True
+1022,"('Masud', 'Arabshahi')",False,False,True
+1023,"('Hannibal', 'Alkhas')",False,False,True
+1024,"('William A.', 'Harper')",False,True,False
+1025,"('Carl Maria Nicolaus', 'Hummel')",False,False,True
+1026,"('Alphonse-Henri', 'Périn')",False,False,True
+1027,"('Romain-Étienne-Gabriel', 'Prieur')",False,False,True
+1028,"('Unknown', 'Zubelda Cigarettes')",False,False,True
+1029,"('Jules', 'Tavernier')",False,False,True
+1030,"('Unknown', 'Wang Jian')",False,False,True
+1031,"('Shahpour', 'Pouyan')",False,False,True
+1032,"('Antonio (called Antonio da Crevalcore)', 'Leonelli')",False,False,True
+1033,"('Narcisse', 'Berchère')",False,False,True
+1034,"('José', 'Sánchez')",False,False,True
+1035,"('Elisheva', 'Biernoff')",False,False,True
+1036,"('Yaha', 'Ghaffari')",False,False,True

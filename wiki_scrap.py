@@ -29,15 +29,25 @@ for index, row in artists.iterrows():
         name_error = True
 
     try: 
-        artist_image_link = soup.find("a",{"class":"image"})
+        artist_image_search = soup.find("a",{"class":"image"})
+        artist_image_link = artist_image_search["href"]
         image_error = False
     except:
         artist_image_link = 'unfound' 
         image_error = True
     
     try:
-        artist_bio_paragraphs = (soup.find_all('p')[1].get_text())
+        artist_bio_first_para = soup.find_all("p", class_="mw-parser-output")
+            whitelist = [
+                     'p'
+                        ]
+
+            p_elements = [t for t in soup.find_all() if t.name in whitelist]
+
+            p_we_want = [t.get_text() for t in p_elements if "b" == list(t.children)[0].name]
+                print(p_we_want)
         bio_error = False
+        
     except:
         artist_bio_paragraphs = 'unfound'
         bio_error = True
