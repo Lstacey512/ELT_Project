@@ -29,7 +29,8 @@ for index, row in artists.iterrows():
         name_error = True
 
     try: 
-        artist_image_link = soup.find("a",{"class":"image"})
+        artist_image_search = soup.find("a",{"class":"image"})
+        artist_image_link = artist_image_search["href"]
         image_error = False
     except:
         artist_image_link = 'unfound' 
