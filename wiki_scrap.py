@@ -2,7 +2,7 @@ import requests
 from bs4 import BeautifulSoup
 import pandas as pd
 
-artists = pd.read_csv('unique_artists_for_scrape.csv')
+artists = pd.read_csv('artists_table.csv')
 
 results = []
 error = []
@@ -11,15 +11,14 @@ limit = 20
 
 for index, row in artists.iterrows():
 
-    first_name = artists.loc[index,'Artist_First_Name']
-    last_name = artists.loc[index,'Artist_Surname']
+    name = artists.loc[index,'Full_name']
 
     #url = input('SENT FROM USER REQUEST')
-    url = 'https://en.wikipedia.org/wiki/'+first_name + '_' + last_name
+    url = 'https://en.wikipedia.org/wiki/'+ name
     page = requests.get(url)
     soup = BeautifulSoup(page.text, 'html.parser')
 
-    print('grabbing page for...' + first_name + last_name)
+    print('grabbing page for...' + name)
 
     try:
         header_artist_name = soup.find('h1', class_="firstHeading").text
@@ -37,15 +36,24 @@ for index, row in artists.iterrows():
         image_error = True
     
     try:
-        artist_bio_paragraphs = (soup.find_all('p')[1].get_text())
+        artist_bio_first_para = soup.find_all("p", class_="mw-parser-output")
+        whitelist = [
+                     'p'
+                        ]
+
+        p_elements = [t for t in soup.find_all() if t.name in whitelist]
+
+        artist_bio_paragraphs = [t.get_text() for t in p_elements if "b" == list(t.children)[0].name]
+        #print(p_we_want)
         bio_error = False
+        
     except:
         artist_bio_paragraphs = 'unfound'
         bio_error = True
     
     print('appending results...')
     results.append({
-        'name' : (first_name, last_name),
+        'name' : (name),
         'header' : header_artist_name,
         'image':artist_image_link,
         'bio':artist_bio_paragraphs
@@ -53,7 +61,7 @@ for index, row in artists.iterrows():
 
     if name_error == True or image_error == True or bio_error == True:
         error.append({
-        'name' : (first_name, last_name),
+        'name' : (name),
         'header error' : name_error,
         'image error': image_error,
         'bio error': bio_error
